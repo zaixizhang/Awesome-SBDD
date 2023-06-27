@@ -11,10 +11,10 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ## Table of Contents                                           
 - [Binding site prediction](#binding-site-prediction)                     
-- [Binding pose generation](#molecule-protein-docking)             
-- [Binding affinity prediction](#protein-protein-docking)               
-- [De novo ligand generation](#molecular-dynamics-simulation)   
-- [Linker design](#binding-site-identification) 
+- [Binding pose generation](#binding-pose-generation)             
+- [Binding affinity prediction](#binding-affinity-prediction)               
+- [De novo ligand generation](#de-novo-ligand-generation)   
+- [Linker design](#linker-design) 
 
 
 ## Binding site prediction
