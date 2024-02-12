@@ -1,4 +1,6 @@
 # Awesome-SBDD
+Our survey paper: [A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design](https://arxiv.org/abs/2306.11768)
+
 Papers about Structure-based Drug Design (SBDD)
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Created](https://img.shields.io/badge/Created-2023--06-green.svg) ![Stars](https://img.shields.io/github/stars/zaixizhang/Awesome-SBDD?color=yellow)
