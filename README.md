@@ -31,6 +31,8 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Jiménez, José, et al. "DeepSite: protein-binding site predictor using 3D-convolutional neural networks." Bioinformatics 33.19 (2017): 3036-3042. [[Paper](https://academic.oup.com/bioinformatics/article/33/19/3036/3859178)]
 - [ ] Kandel, Jeevan, Hilal Tayara, and Kil To Chong. "PUResNet: prediction of protein-ligand binding sites using deep residual neural network." Journal of cheminformatics 13.1 (2021): 1-14. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00547-7)][[Code](https://github.com/jivankandel/PUResNet)]
 - [ ] Huang, Yupeng et al. “DSDP: A Blind Docking Strategy Accelerated by GPUs.” Journal of chemical information and modeling (2023): n. pag. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00519)][[Code](https://github.com/PKUGaoGroup/DSDP)]
+- [ ] Wu, Fang et al. "Surface-VQMAE: Vector-quantized Masked Auto-encoders on Molecular Surfaces." International Conference on Machine Learning, 2024 [[Paper](https://openreview.net/forum?id=szxtVHOh0C)][[Code](https://github.com/smiles724/VQMAE)]
+
 
 ## Binding pose generation
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
@@ -56,6 +58,12 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Zhang, Runze et al. “PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking.” bioRxiv (2024): n. pag. [[Paper](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)][[Code](https://github.com/Zhang-Runze/PackDock)]
 - [ ] Huang, Yufei et al. “Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge.” (2024). [[Paper](https://arxiv.org/pdf/2402.11459.pdf)]
 - [ ] Jing, Bowen et al. “Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms.” International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/forum?id=BIveOmD1Nh)][[Code](https://github.com/bjing2016/scalar-fields)]
+- [ ] Feng, Shikun et al. "Protein-ligand binding representation learning from fine-grained interactions." International Conference on Learning Representations, 2024 [[Paper](https://arxiv.org/abs/2311.16160)]
+- [ ] Stärk, Hannes et al. "Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2310.05764)][[Code](https://github.com/HannesStark/FlowSite)]
+- [ ] Huang, yufei et al. "Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2402.11459)]
+- [ ] Huang, Zhilin et al. "Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation." International Conference on Machine Learning, 2024 [[Paper](https://openreview.net/forum?id=eejhD9FCP3&referrer=%5Bthe%20profile%20of%20Xiangxin%20Zhou%5D(%2Fprofile%3Fid%3D~Xiangxin_Zhou1)][[Code](https://github.com/YangLing0818/IRDiff)]
+
+
 
 ## Binding affinity prediction
 - [ ] Li, Shuangli, et al. "Structure-aware interactive graph neural networks for the prediction of protein-ligand binding affinity." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467311)][[Code](https://github.com/agave233/SIGN)]
@@ -72,7 +80,9 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Hermosilla, Pedro, et al. "Intrinsic-extrinsic convolution and pooling for learning on 3d protein structures." International Conference on Learning Representations. 2021. [[Paper](https://openreview.net/forum?id=l0mSUROpwY)][[Code](https://github.com/phermosilla/IEConv_proteins)]
 - [ ] Lu, Ruiqiang, et al. "Improving drug-target affinity prediction via feature fusion and knowledge distillation." Briefings in Bioinformatics 24.3 (2023): bbad145. [[Paper](https://academic.oup.com/bib/article/24/3/bbad145/7142721)][[Code](https://github.com/RuiqiangLu/KIDA)]
 - [ ] Jones, Derek, et al. "Improved protein–ligand binding affinity prediction with structure-based deep fusion inference." Journal of chemical information and modeling 61.4 (2021): 1583-1592. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01306)][[Code](https://github.com/llnl/fast)]
-- [ ] Li, Shuangli et al. “GIANT: Protein-Ligand Binding Affinity Prediction via Geometry-aware Interactive Graph Neural Network.” IEEE Transactions on Knowledge and Data Engineering (2023): n. pag. [[Paper]()][[Code]()]
+- [ ] Li, Shuangli et al. “GIANT: Protein-Ligand Binding Affinity Prediction via Geometry-aware Interactive Graph Neural Network.” IEEE Transactions on Knowledge and Data Engineering (2023): n. pag. [[Paper](https://www.computer.org/csdl/journal/tk/2024/05/10250845/1Qpfiqmfqko)][[Code]()]
+- [ ] Zheng, Kangjie et al. "ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2403.12995)][[Code](https://github.com/zhengkangjie/ESM-AA)]
+- [ ] Kong, Xiangzhe et al. "Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2306.01474)][[Code](https://github.com/THUNLP-MT/GET)]
 
 ## De novo ligand generation
 - [ ] Spiegel, Jacob O., and Jacob D. Durrant. "AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization." Journal of cheminformatics 12.1 (2020): 1-16. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00429-4)][[Code](https://durrantlab.pitt.edu/autogrow4/)]
@@ -109,3 +119,6 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Chen, Hongming. "3D Based Generative PROTAC Linker Design with Reinforcement Learning." (2023). [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/646c5a71b3dd6a653095b6ec)]
 - [ ] Igashov, Ilia, et al. "Equivariant 3d-conditional diffusion models for molecular linker design." arXiv preprint arXiv:2210.05274 (2022). [[Paper](https://arxiv.org/abs/2210.05274)][[Code](https://github.com/igashov/DiffLinker)]
 - [ ] Guan, Jiaqi, et al. "LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion." Advances in Neural Information Processing Systems, 2023 [[Paper](https://openreview.net/pdf?id=6EaLIw3W7c)][[Code](https://github.com/guanjq/LinkerNet)]
+
+
+
