@@ -35,13 +35,14 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ## Binding pose generation
+- [ ] Qiao, Zhuoran et al. “State-specific protein-ligand complex structure prediction with a multi-scale deep generative model.” arXiv preprint arXiv:2209.15171 (2021). [[Paper](https://arxiv.org/abs/2209.15171)]
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
 - [ ] Méndez-Lucio, Oscar, et al. "A geometric deep learning approach to predict binding conformations of bioactive molecules." Nature Machine Intelligence 3.12 (2021): 1033-1039. [[Paper](https://www.nature.com/articles/s42256-021-00409-9)][[Code](https://github.com/OptiMaL-PSE-Lab/DeepDock)]
 - [ ] Lu, Wei, et al. "TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction." Advances in Neural Information Processing Systems. 2022. [[Paper](https://openreview.net/forum?id=MSBDFwGYwwt)][[Code](https://github.com/luwei0917/TankBind)]
 - [ ] Masters, Matthew R., et al. "Deep learning model for efficient protein–ligand docking with implicit side-chain flexibility." Journal of Chemical Information and Modeling 63.6 (2023): 1695-1707. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01436)][[Code](https://github.com/MatthewMasters/EDM-Dock)]
 - [ ] Nakata, Shuya, Yoshiharu Mori, and Shigenori Tanaka. "End-to-end protein–ligand complex structure generation with diffusion-based generative models." BMC bioinformatics 24.1 (2023): 1-18. [[Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05354-5)][[Code](https://github.com/shuyana/DiffusionProteinLigand)]
 - [ ] Corso, Gabriele, et al. "Diffdock: Diffusion steps, twists, and turns for molecular docking." International Conference on Learning Representations. 2023. [[Paper](https://openreview.net/forum?id=kKF8_K-mBbS)][[Code](https://github.com/gcorso/DiffDock)]
-- [ ] Qiao, Zhuoran et al. “State-specific protein-ligand complex structure prediction with a multi-scale deep generative model.” arXiv preprint arXiv:2209.15171 (2021). [[Paper](https://arxiv.org/abs/2209.15171)]
+- [ ] Zhou, Gengmo et al. “Uni-Mol: A Universal 3D Molecular Representation Learning Framework.” International Conference on Learning Representations (2023).[[Paper](https://openreview.net/pdf?id=6K2RM6wVqKu)][[Code](https://github.com/deepmodeling/Uni-Mol)]
 - [ ] Zhang, Yangtian, et al. "E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking." International Conference on Learning Representations. 2023. [[Paper](https://openreview.net/forum?id=sO1QiAftQFv)]
 - [ ] Wang, Zechen, et al. "A fully differentiable ligand pose optimization framework guided by deep learning and a traditional scoring function." Briefings in Bioinformatics 24.1 (2023): bbac520. [[Paper](https://academic.oup.com/bib/article-abstract/24/1/bbac520/6887112?redirectedFrom=fulltext)][[Code](https://github.com/zchwang/DeepRMSD-Vina_Optimization)]
 - [ ] Mailoa, Jonathan P., et al. "Protein-Ligand Complex Generator & Drug Screening via Tiered Tensor Transform." arXiv preprint arXiv:2301.00984 (2023). [[Paper](https://arxiv.org/abs/2301.00984)]
@@ -58,12 +59,15 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Zhang, Runze et al. “PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking.” bioRxiv (2024): n. pag. [[Paper](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)][[Code](https://github.com/Zhang-Runze/PackDock)]
 - [ ] Huang, Yufei et al. “Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge.” (2024). [[Paper](https://arxiv.org/pdf/2402.11459.pdf)]
 - [ ] Jing, Bowen et al. “Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms.” International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/forum?id=BIveOmD1Nh)][[Code](https://github.com/bjing2016/scalar-fields)]
-- [ ] Feng, Shikun et al. "Protein-ligand binding representation learning from fine-grained interactions." International Conference on Learning Representations, 2024 [[Paper](https://arxiv.org/abs/2311.16160)]
 - [ ] Stärk, Hannes et al. "Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2310.05764)][[Code](https://github.com/HannesStark/FlowSite)]
-- [ ] Huang, yufei et al. "Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2402.11459)]
-- [ ] Huang, Zhilin et al. "Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation." International Conference on Machine Learning, 2024 [[Paper](https://openreview.net/forum?id=eejhD9FCP3&referrer=%5Bthe%20profile%20of%20Xiangxin%20Zhou%5D(%2Fprofile%3Fid%3D~Xiangxin_Zhou1)][[Code](https://github.com/YangLing0818/IRDiff)]
-
-
+- [] Alcaide, Eric et al. “Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction.” ArXiv abs/2405.11769 (2024): n. pag. [[Paper](https://arxiv.org/pdf/2405.11769)][[Code](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2)]
+- [] Gao, Kaiyuan et al. “FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation.” ArXiv abs/2403.20261 (2024): n. pag. [[Paper](https://arxiv.org/pdf/2403.20261)][[Code](https://github.com/QizhiPei/FABind/tree/main/FABind_plus)]
+- [] Corso, Gabriele et al. “Deep Confident Steps to New Pockets: Strategies for Docking Generalization.” ArXiv (2024): n. pag. [[Paper](https://openreview.net/pdf?id=UfBIxpTK10)][[Code](https://github.com/gcorso/DiffDock)]
+- [] Liu, Lihang et al. “Pre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction Models.” ArXiv abs/2310.13913 (2023): n. pag. [[Paper](https://arxiv.org/pdf/2310.13913)][[Code](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock)]
+- [] Bryant, Patrick et al. “Structure prediction of protein-ligand complexes from sequence information with Umol.” Nature Communications 15 (2023): n. pag. [[Paper](https://www.nature.com/articles/s41467-024-48837-6)][[Code](https://github.com/patrickbryant1/Umol)]
+- [] Boitreaud, Jacques et al. “Chai-1: Decoding the molecular interactions of life.” bioRxiv (2024): n. pag. [[Paper](https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2.full.pdf)][[Code](https://github.com/chaidiscovery/chai-lab)]
+- [] Abramson, Josh et al. “Accurate structure prediction of biomolecular interactions with AlphaFold 3.” Nature 630 (2024): 493 - 500. [[Paper](https://www.nature.com/articles/s41586-024-07487-w)]
+- [] Krishna, Rohith et al. “Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom.” bioRxiv (2023): n. pag. [[Paper](https://www.science.org/doi/10.1126/science.adl2528)][[Code](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)]
 
 ## Binding affinity prediction
 - [ ] Li, Shuangli, et al. "Structure-aware interactive graph neural networks for the prediction of protein-ligand binding affinity." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467311)][[Code](https://github.com/agave233/SIGN)]
@@ -83,6 +87,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Li, Shuangli et al. “GIANT: Protein-Ligand Binding Affinity Prediction via Geometry-aware Interactive Graph Neural Network.” IEEE Transactions on Knowledge and Data Engineering (2023): n. pag. [[Paper](https://www.computer.org/csdl/journal/tk/2024/05/10250845/1Qpfiqmfqko)][[Code]()]
 - [ ] Zheng, Kangjie et al. "ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2403.12995)][[Code](https://github.com/zhengkangjie/ESM-AA)]
 - [ ] Kong, Xiangzhe et al. "Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2306.01474)][[Code](https://github.com/THUNLP-MT/GET)]
+- [ ] Feng, Shikun et al. "Protein-ligand binding representation learning from fine-grained interactions." International Conference on Learning Representations, 2024 [[Paper](https://arxiv.org/abs/2311.16160)]
 
 ## De novo ligand generation
 - [ ] Spiegel, Jacob O., and Jacob D. Durrant. "AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization." Journal of cheminformatics 12.1 (2020): 1-16. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00429-4)][[Code](https://durrantlab.pitt.edu/autogrow4/)]
@@ -112,6 +117,7 @@ We will try to make this list updated. If you found any error or any missed pape
 - [ ] Lin, Haitao et al. “Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration.” ArXiv abs/2306.13769 (2023): n. pag. [[Paper](https://openreview.net/pdf?id=lRG11M91dx)]
 - [ ] Huang, Zhilin et al. "Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models." International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/pdf?id=qH9nrMNTIW)][[Code](https://github.com/YangLing0818/IPDiff)]
 - [ ] Zhou, Xiangxin et al. "DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization." International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/forum?id=Y3BbxvAQS9)]
+- [ ] Huang, Zhilin et al. "Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation." International Conference on Machine Learning, 2024 [[Paper](https://openreview.net/pdf?id=eejhD9FCP3)][[Code](https://github.com/YangLing0818/IRDiff)]
 
 ## Linker design
 - [ ] Imrie, Fergus, et al. "Deep generative models for 3D linker design." Journal of chemical information and modeling 60.4 (2020): 1983-1995. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120)][[Code](https://github.com/oxpig/DeLinker)]
