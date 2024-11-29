@@ -620,24 +620,123 @@ Stepniewska-Dziubinska, Marta M., Piotr Zielenkiewicz, and Pawel Siedlecki
 
 
 ### 2023 -- De-novo-ligand-generation
+**Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design**  
+Adams, Keir, and Connor W. Coley  
+*International Conference on Learning Representations. 2023*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=4MbGnp4iPQ)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7a78ce6533d26135b087c7c85f79749f09c0d2d0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/keiradams/SQUID)
+![Stars](https://img.shields.io/github/stars/keiradams/SQUID?color=yellow&style=social)
+
+
+**Prefixmol: Target-and chemistry-aware molecule design via prefix embedding**  
+Gao, Zhangyang, et al  
+*arXiv preprint arXiv:2302.07120 (2023)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2302.07120)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5db270f86b42193812f7cecb943167ce7aa45aaa%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**Molecule generation for target protein binding with structural motifs**  
+Zhang, Zaixi, et al  
+*International Conference on Learning Representations. 2023*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=Rq13idF0F73)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3d8e9601710eab43a89c0c49a9aaea44e6209b8e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zaixizhang/FLAG)
+![Stars](https://img.shields.io/github/stars/zaixizhang/FLAG?color=yellow&style=social)
+
+
 
 
 
 
 
 ### 2022 -- De-novo-ligand-generation
+**Reinforced genetic algorithm for structure-based drug design**  
+Fu, Tianfan, et al  
+*Advances in Neural Information Processing Systems 35 (2022): 12325-12338*  
+[![](https://img.shields.io/badge/neurips-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2022/file/4fe1859112230a032c7143a9adc3be78-Paper-Conference.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa2d6e9091d3474392a6e2e9b91b0b657afaa4bf0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/futianfan/reinforced-genetic-algorithm)
+![Stars](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?color=yellow&style=social)
+
+
+**Relation: A deep generative model for structure-based de novo drug design**  
+Wang, Mingyang, et al  
+*Journal of Medicinal Chemistry 65.13 (2022): 9478-9492*  
+[![](https://img.shields.io/badge/acs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F15215eb9ad3826cb538f3eded033f054bb37be45%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/micahwang/RELATION)
+![Stars](https://img.shields.io/github/stars/micahwang/RELATION?color=yellow&style=social)
+
+
+**Synthesis-driven design of 3D molecules for structure-based drug discovery using geometric transformers**  
+Li, Yibo, Jianfeng Pei, and Luhua Lai  
+*arXiv preprint arXiv:2301.00167 (2022)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2301.00167)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F81f5792e7bce2ff5edc2148e6f46989e372e14e8%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**Pocket2mol: Efficient molecular sampling based on 3d protein pockets**  
+Peng, Xingang, et al  
+*International Conference on Machine Learning. PMLR, 2022*  
+[![](https://img.shields.io/badge/proceedings_mlr_press-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v162/peng22b.html)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fecd7332cd3d34220a8cf01c30385da123c61dff0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/pengxingang/Pocket2Mol)
+![Stars](https://img.shields.io/github/stars/pengxingang/Pocket2Mol?color=yellow&style=social)
+
+
+**Zero-Shot 3D Drug Design by Sketching and Generating**  
+Long, Siyu, et al  
+*arXiv preprint arXiv:2209.13865 (2022)*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=H_xAgRM7I5N)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe6857bd08cbe550642a8048c27dc069142d342d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/longlongman/DESERT)
+![Stars](https://img.shields.io/github/stars/longlongman/DESERT?color=yellow&style=social)
+
+
 
 
 
 
 
 ### 2021 -- De-novo-ligand-generation
+**Structure-based de novo drug design using 3D deep generative models**  
+Li, Yibo, Jianfeng Pei, and Luhua Lai  
+*Chemical science 12.41 (2021): 13664-13675*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc04444c)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F02b86623755c6541a3799c26b31bd8f2918ce3f8%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**A 3D generative model for structure-based drug design**  
+Luo, Shitong, et al  
+*Advances in Neural Information Processing Systems 34 (2021): 6229-6239*  
+[![](https://img.shields.io/badge/papers-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://papers.nips.cc/paper/2021/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd651f7b09f554482bc7a5ffa1381dda1dc73050c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luost26/3D-Generative-SBDD)
+![Stars](https://img.shields.io/github/stars/luost26/3D-Generative-SBDD?color=yellow&style=social)
+
 
 
 
 
 
 ### 2020 -- De-novo-ligand-generation
+**AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization**  
+Spiegel, Jacob O., and Jacob D. Durrant  
+*Journal of cheminformatics 12.1 (2020): 1-16*  
+[![](https://img.shields.io/badge/biomedcentral-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00429-4)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc7d6f62ca7e5e857c0bca2cf2675d43953dc6a42%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://durrantlab.pitt.edu/autogrow4/)
+
+
+**Generating 3d molecular structures conditional on a receptor binding site with deep generative models**  
+Masuda, Tomohide, Matthew Ragoza, and David Ryan Koes  
+*arXiv preprint arXiv:2010.14442 (2020)*  
+[![](https://img.shields.io/badge/rsc-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05976a)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4b525c91a75f90c3ecd478324c0c77e0f839c675%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mattragoza/LiGAN)
+![Stars](https://img.shields.io/github/stars/mattragoza/LiGAN?color=yellow&style=social)
+
 
 
 
@@ -652,18 +751,6 @@ Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jertubiana/ScanNet)
 ![Stars](https://img.shields.io/github/stars/jertubiana/ScanNet?color=yellow&style=social)
 
-- [ ] Spiegel, Jacob O., and Jacob D. Durrant. "AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization." Journal of cheminformatics 12.1 (2020): 1-16. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00429-4)][[Code](https://durrantlab.pitt.edu/autogrow4/)]
-- [ ] Fu, Tianfan, et al. "Reinforced genetic algorithm for structure-based drug design." Advances in Neural Information Processing Systems 35 (2022): 12325-12338. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/4fe1859112230a032c7143a9adc3be78-Paper-Conference.pdf)][[Code](https://github.com/futianfan/reinforced-genetic-algorithm)]
-- [ ] Masuda, Tomohide, Matthew Ragoza, and David Ryan Koes. "Generating 3d molecular structures conditional on a receptor binding site with deep generative models." arXiv preprint arXiv:2010.14442 (2020). [[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05976a)][[Code](https://github.com/mattragoza/LiGAN)]
-- [ ] Wang, Mingyang, et al. "Relation: A deep generative model for structure-based de novo drug design." Journal of Medicinal Chemistry 65.13 (2022): 9478-9492. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00732)][[Code](https://github.com/micahwang/RELATION)]
-- [ ] Adams, Keir, and Connor W. Coley. "Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design." International Conference on Learning Representations. 2023. [[Paper](https://openreview.net/forum?id=4MbGnp4iPQ)][[Code](https://github.com/keiradams/SQUID)]
-- [ ] Li, Yibo, Jianfeng Pei, and Luhua Lai. "Structure-based de novo drug design using 3D deep generative models." Chemical science 12.41 (2021): 13664-13675. [[Paper](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc04444c)]
-- [ ] Li, Yibo, Jianfeng Pei, and Luhua Lai. "Synthesis-driven design of 3D molecules for structure-based drug discovery using geometric transformers." arXiv preprint arXiv:2301.00167 (2022). [[Paper](https://arxiv.org/abs/2301.00167)]
-- [ ] Luo, Shitong, et al. "A 3D generative model for structure-based drug design." Advances in Neural Information Processing Systems 34 (2021): 6229-6239. [[Paper](https://papers.nips.cc/paper/2021/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)][[Code](https://github.com/luost26/3D-Generative-SBDD)]
-- [ ] Peng, Xingang, et al. "Pocket2mol: Efficient molecular sampling based on 3d protein pockets." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/peng22b.html)][[Code](https://github.com/pengxingang/Pocket2Mol)]
-- [ ] Long, Siyu, et al. "Zero-Shot 3D Drug Design by Sketching and Generating." arXiv preprint arXiv:2209.13865 (2022). [[Paper](https://openreview.net/forum?id=H_xAgRM7I5N)][[Code](https://github.com/longlongman/DESERT)]
-- [ ] Gao, Zhangyang, et al. "Prefixmol: Target-and chemistry-aware molecule design via prefix embedding." arXiv preprint arXiv:2302.07120 (2023). [[Paper](https://arxiv.org/abs/2302.07120)]
-- [ ] Zhang, Zaixi, et al. "Molecule generation for target protein binding with structural motifs." International Conference on Learning Representations. 2023. [[Paper](https://openreview.net/forum?id=Rq13idF0F73)][[Code](https://github.com/zaixizhang/FLAG)]
 - [ ] Zhang, Zaixi, and Qi Liu. "Learning Subpocket Prototypes for Generalizable Structure-based Drug Design." International Conference on Machine Learning. PMLR, 2023. [[Paper](https://arxiv.org/abs/2305.13997)][[Code](https://github.com/zaixizhang/DrugGPS_ICML23)]
 - [ ] Wang, Lvwei, et al. "Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model." arXiv preprint arXiv:2305.10133 (2023). [[Paper](https://arxiv.org/abs/2305.10133)][[Code](https://sw3dmg.stonewise.cn/#/)]
 - [ ] Liu, Meng, et al. "Generating 3d molecules for target protein binding." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/liu22m/liu22m.pdf)][[Code](https://github.com/divelab/GraphBP)]
