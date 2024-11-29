@@ -1,5 +1,6 @@
 # Awesome-SBDD
-Our survey paper: [A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design](https://arxiv.org/abs/2306.11768)
+Our survey paper: [A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design](
+https://arxiv.org/abs/2306.11768)
 
 Papers about Structure-based Drug Design (SBDD)
 
@@ -12,29 +13,178 @@ This repository contains a list of papers on the Structure-based Drug Design; we
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
 ## Table of Contents                                           
-- [Binding site prediction](#binding-site-prediction)                     
-- [Binding pose generation](#binding-pose-generation)             
-- [Binding affinity prediction](#binding-affinity-prediction)               
-- [De novo ligand generation](#de-novo-ligand-generation)   
-- [Linker design](#linker-design) 
+- [Binding site prediction](#binding-site-prediction)
+  - [2024 -- Binding site prediction](#2024----Binding-site-prediction)
+  - [2023 -- Binding site prediction](#2023----Binding-site-prediction)
+  - [2022 -- Binding site prediction](#2022----Binding-site-prediction)
+  - [2021 -- Binding site prediction](#2021----Binding-site-prediction)
+  - [2019 -- Binding site prediction](#2019----Binding-site-prediction)
+  - [2017 -- Binding site prediction](#2017----Binding-site-prediction)                   
+- [Binding pose generation](#binding-pose-generation)
+  - [2024 -- Binding pose generation](#2024----Binding-pose-generation)
+  - [2023 -- Binding pose generation](#2023----Binding-pose-generation)
+  - [2022 -- Binding pose generation](#2022----Binding-pose-generation)
+  - [2021 -- Binding pose generation](#2021----Binding-pose-generation)             
+- [Binding affinity prediction](#binding-affinity-prediction)
+  - [2024 -- Binding affinity prediction](#2024----Binding-affinity-prediction)
+  - [2023 -- Binding affinity prediction](#2023----Binding-affinity-prediction)
+  - [2022 -- Binding affinity prediction](#2022----Binding-affinity-prediction)
+  - [2021 -- Binding affinity prediction](#2021----Binding-affinity-prediction)
+  - [2020 -- Binding affinity prediction](#2020----Binding-affinity-prediction)
+  - [2019 -- Binding affinity prediction](#2019----Binding-affinity-prediction)
+  - [2018 -- Binding affinity prediction](#2018----Binding-affinity-prediction)               
+- [De novo ligand generation](#de-novo-ligand-generation)
+  - [2024 -- De novo ligand generation](#2024----De-novo-ligand-generation)
+  - [2023 -- De novo ligand generation](#2023----De-novo-ligand-generation)
+  - [2022 -- De novo ligand generation](#2022----De-novo-ligand-generation)
+  - [2021 -- De novo ligand generation](#2021----De-novo-ligand-generation)
+  - [2020 -- De novo ligand generation](#2020----De-novo-ligand-generation)   
+- [Linker design](#linker-design)
+  - [2023 -- Linker design](#2023----Linker-design)
+  - [2022 -- Linker design](#2022----Linker-design)
+  - [2020 -- Linker design](#2020----Linker-design)
 
 
 ## Binding site prediction
-- [ ] Gainza, Pablo et al. “Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.” Nature Methods 17 (2019): 184-192. [[Paper](https://www.nature.com/articles/s41592-019-0666-6)][[Code](https://github.com/lpdi-epfl/masif)]
-- [ ] Sverrisson, Freyr, et al. "Fast end-to-end learning on protein surfaces." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf)][[Code](https://github.com/FreyrS/dMaSIF)]
-- [ ] Krapp, Lucien F., et al. "PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces." Nature Communications 14 (2023): 2175. [[Paper](https://www.nature.com/articles/s41467-023-37701-8)][[Code](https://github.com/LBM-EPFL/PeSTo)]
-- [ ] Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson. "ScanNet: an interpretable geometric deep learning model for structure-based protein binding site prediction." Nature Methods 19.6 (2022): 730-739. [[Paper](https://www.nature.com/articles/s41592-022-01490-7)][[Code](https://github.com/jertubiana/ScanNet)]
-- [ ] Meller, Artur, et al. "Predicting the locations of cryptic pockets from single protein structures using the PocketMiner graph neural network." Nature Communications 14 (2023): 1177. [[Paper](https://www.nature.com/articles/s41467-023-36699-3)][[Code](https://github.com/Mickdub/gvp/tree/pocket_pred)]
-- [ ] Fout, Alex, et al. "Protein interface prediction using graph convolutional networks." Advances in neural information processing systems 30 (2017). [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf)][[Code](https://github.com/fouticus/pipgcn)]
-- [ ] Zhang, Yang, et al. "EquiPocket: an E (3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction." arXiv preprint arXiv:2302.12177 (2023). [[Paper](https://arxiv.org/abs/2302.12177)]
-- [ ] Abdollahi, Nasim, et al. "NodeCoder: a graph-based machine learning platform to predict active sites of modeled protein structures." arXiv preprint arXiv:2302.03590 (2023). [[Paper](https://arxiv.org/abs/2302.03590)][[Code](https://github.com/NasimAbdollahi/NodeCoder)]
-- [ ] Jiménez, José, et al. "DeepSite: protein-binding site predictor using 3D-convolutional neural networks." Bioinformatics 33.19 (2017): 3036-3042. [[Paper](https://academic.oup.com/bioinformatics/article/33/19/3036/3859178)]
-- [ ] Kandel, Jeevan, Hilal Tayara, and Kil To Chong. "PUResNet: prediction of protein-ligand binding sites using deep residual neural network." Journal of cheminformatics 13.1 (2021): 1-14. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00547-7)][[Code](https://github.com/jivankandel/PUResNet)]
-- [ ] Huang, Yupeng et al. “DSDP: A Blind Docking Strategy Accelerated by GPUs.” Journal of chemical information and modeling (2023): n. pag. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00519)][[Code](https://github.com/PKUGaoGroup/DSDP)]
-- [ ] Wu, Fang et al. "Surface-VQMAE: Vector-quantized Masked Auto-encoders on Molecular Surfaces." International Conference on Machine Learning, 2024 [[Paper](https://openreview.net/forum?id=szxtVHOh0C)][[Code](https://github.com/smiles724/VQMAE)]
+
+### 2024 -- Binding-site-prediction
+**Surface-VQMAE: Vector-quantized Masked Auto-encoders on Molecular Surfaces**
+Wu, Fang et al
+*International Conference on Machine Learning, 2024*
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=szxtVHOh0C)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0b0ae49d2c933576d81146ac1ca7ff97f7ab910b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/smiles724/VQMAE)
+![Stars](https://img.shields.io/github/stars/smiles724/VQMAE?color=yellow&style=social)
+
+
+### 2023 -- Binding-site-prediction
+**PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces**
+Krapp, Lucien F., et al
+*Nature Communications 14 (2023): 2175*
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-37701-8)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fec43befb0c7acfc2bf9a79e5bf41e0920c5b3382%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/LBM-EPFL/PeSTo)
+![Stars](https://img.shields.io/github/stars/LBM-EPFL/PeSTo?color=yellow&style=social)
+
+
+**Predicting the locations of cryptic pockets from single protein structures using the PocketMiner graph neural network**
+Meller, Artur, et al
+*Nature Communications 14 (2023): 1177*
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36699-3)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F71e2caca1f97e1d0521de3cea1733bec9f8e13d1%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Mickdub/gvp/tree/pocket_pred)
+![Stars](https://img.shields.io/github/stars/Mickdub/gvp/tree/pocket_pred?color=yellow&style=social)
+
+
+**EquiPocket: an E (3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction**
+Zhang, Yang, et al
+*arXiv preprint arXiv:2302.12177 (2023)*
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2302.12177)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F97b2c62fe4dacae931e2df1eefa633da81a79108%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**NodeCoder: a graph-based machine learning platform to predict active sites of modeled protein structures**
+Abdollahi, Nasim, et al
+*arXiv preprint arXiv:2302.03590 (2023)*
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2302.03590)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F37833e363260ff052f41927d64d4bcb9d0b79ba7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/NasimAbdollahi/NodeCoder)
+![Stars](https://img.shields.io/github/stars/NasimAbdollahi/NodeCoder?color=yellow&style=social)
+
+
+**DSDP: A Blind Docking Strategy Accelerated by GPUs**
+Huang, Yupeng et al
+*Journal of chemical information and modeling (2023)*
+[![](https://img.shields.io/badge/acs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00519)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb3f9ed5db9a0280d8c604ce18337bae8587c37d1%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/PKUGaoGroup/DSDP)
+![Stars](https://img.shields.io/github/stars/PKUGaoGroup/DSDP?color=yellow&style=social)
+
+
+### 2022 -- Binding-site-prediction
+**ScanNet: an interpretable geometric deep learning model for structure-based protein binding site prediction**
+Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson
+*Nature Methods 19.6 (2022): 730-739*
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-022-01490-7)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe4ceed180abd39a2602f28c80b30fb4d41583054%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jertubiana/ScanNet)
+![Stars](https://img.shields.io/github/stars/jertubiana/ScanNet?color=yellow&style=social)
+
+
+### 2021 -- Binding-site-prediction
+**Fast end-to-end learning on protein surfaces**
+Sverrisson, Freyr, et al
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021*
+[![](https://img.shields.io/badge/CVPR_2021-Paper-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openaccess.thecvf.com/content/CVPR2021/papers/Sverrisson_Fast_End-to-End_Learning_on_Protein_Surfaces_CVPR_2021_paper.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1f089508bbcd0a5c083cb6077adb133774eca5d7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/FreyrS/dMaSIF)
+![Stars](https://img.shields.io/github/stars/FreyrS/dMaSIF?color=yellow&style=social)
+
+
+**PUResNet: prediction of protein-ligand binding sites using deep residual neural network**
+Qiao, Zhuoran et al
+*arXiv preprint arXiv:2209.15171 (2021)*
+[![](https://img.shields.io/badge/jcheminf_biomedcentral-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00547-7)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbf5a88b16e2f6e8fcc0a5629e4cd4b6bacd2fed6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jivankandel/PUResNet)
+![Stars](https://img.shields.io/github/stars/jivankandel/PUResNet?color=yellow&style=social)
+
+
+### 2019 -- Binding-site-prediction
+**Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning**
+Gainza, Pablo et al
+*Nature Methods 17 (2019): 184-192*
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-019-0666-6)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe4f2c471d27ced746f26cc6e8337ea5cb7c8faf3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/lpdi-epfl/masif)
+![Stars](https://img.shields.io/github/stars/lpdi-epfl/masif?color=yellow&style=social)
+
+
+### 2017 -- Binding-site-prediction
+**Protein interface prediction using graph convolutional networks**
+Fout, Alex, et al
+*Advances in neural information processing systems 30 (2017)*
+[![](https://img.shields.io/badge/proceedings_neurips_cc-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc751ab01aedc2888a7fe6e8b4f77ab1afa94072f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/fouticus/pipgcn)
+![Stars](https://img.shields.io/github/stars/fouticus/pipgcn?color=yellow&style=social)
+
+
+**DeepSite: protein-binding site predictor using 3D-convolutional neural networks**
+Jiménez, José, et al
+*Bioinformatics 33.19 (2017): 3036-3042*
+[![](https://img.shields.io/badge/academic-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/33/19/3036/3859178)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43fa427d81f0c575826a6c39644ce1489cdb9cfb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
 
 
 ## Binding pose generation
+
+### 2024 -- Binding-pose-generation
+
+
+
+
+
+### 2023 -- Binding-pose-generation
+
+
+
+
+
+### 2022 -- Binding-pose-generation
+
+
+
+
+
+### 2021 -- Binding-pose-generation
+
+
+
+
+
+
 - [ ] Qiao, Zhuoran et al. “State-specific protein-ligand complex structure prediction with a multi-scale deep generative model.” arXiv preprint arXiv:2209.15171 (2021). [[Paper](https://arxiv.org/abs/2209.15171)]
 - [ ] Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/stark22b.html)][[Code](https://github.com/HannesStark/EquiBind)]
 - [ ] Méndez-Lucio, Oscar, et al. "A geometric deep learning approach to predict binding conformations of bioactive molecules." Nature Machine Intelligence 3.12 (2021): 1033-1039. [[Paper](https://www.nature.com/articles/s42256-021-00409-9)][[Code](https://github.com/OptiMaL-PSE-Lab/DeepDock)]
