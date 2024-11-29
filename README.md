@@ -156,10 +156,8 @@ Jiménez, José, et al
 [![](https://img.shields.io/badge/academic-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/33/19/3036/3859178)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F43fa427d81f0c575826a6c39644ce1489cdb9cfb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
 
 ## Binding pose generation
-
 ### 2024 -- Binding-pose-generation
 **DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**
 Lu, Wei et al  
@@ -170,6 +168,80 @@ Lu, Wei et al
 ![Stars](https://img.shields.io/github/stars/luwei0917/DynamicBind?color=yellow&style=social)
 
 
+**PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking**  
+Zhang, Runze et al  
+*bioRxiv (2024): n. pag*  
+[![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F770f53f09f541b96d0e3693ae4066b897ef9d9f5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Zhang-Runze/PackDock)
+![Stars](https://img.shields.io/github/stars/Zhang-Runze/PackDock?color=yellow&style=social)
+
+
+**Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge**  
+Huang, Yufei et al  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.11459.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F68981c9aba4c06176f3c062b94c3e6861371bdb6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms**  
+Jing, Bowen et al  
+*International Conference on Learning Representations, 2024*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=BIveOmD1Nh)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd633a97b6fb0227eb38c6987d819085132d97c54%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bjing2016/scalar-fields)
+![Stars](https://img.shields.io/github/stars/bjing2016/scalar-fields?color=yellow&style=social)
+
+
+**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**  
+Stärk, Hannes et al  
+*International Conference on Machine Learning, 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2310.05764)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9e8dd85c321403bcfb26313ede7116f760672d33%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HannesStark/FlowSite)
+![Stars](https://img.shields.io/github/stars/HannesStark/FlowSite?color=yellow&style=social)
+
+
+**Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction**  
+Alcaide, Eric et al  
+*ArXiv abs/2405.11769 (2024)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.11769)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd03bcd5003d5f35d536f9e9b7ae5c4194de93295%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2)
+![Stars](https://img.shields.io/github/stars/deepmodeling/Uni-Mol?color=yellow&style=social)
+
+
+**FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation**  
+Gao, Kaiyuan et al  
+*ArXiv abs/2403.20261 (2024): n. pag*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.20261)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6594ec85ba41682c2ae0b2c205a92ec372f0ec4b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/QizhiPei/FABind/tree/main/FABind_plus)
+![Stars](https://img.shields.io/github/stars/QizhiPei/FABind?color=yellow&style=social)
+
+
+**Deep Confident Steps to New Pockets: Strategies for Docking Generalization**  
+Corso, Gabriele et al  
+*ArXiv (2024): n. pag*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=UfBIxpTK10)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa2af79d2c6a75919d586590487cc3b39b42a94c2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/gcorso/DiffDock)
+![Stars](https://img.shields.io/github/stars/gcorso/DiffDoc?color=yellow&style=social)
+
+
+**Chai-1: Decoding the molecular interactions of life**  
+Boitreaud, Jacques et al  
+*bioRxiv (2024): n. pag*  
+[![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2.full.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd6352ba03f73056e7b0dbfab3adab6f367866827%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/chaidiscovery/chai-lab)
+![Stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?color=yellow&style=social)
+
+
+**Accurate structure prediction of biomolecular interactions with AlphaFold 3**  
+Abramson, Josh et al  
+*Nature 630 (2024): 493 - 500*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41586-024-07487-w)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7572ba7f604ef95d7acdd657ebac458106bd35df%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 ### 2023 -- Binding-pose-generation
@@ -284,6 +356,57 @@ Cai, Heng et al
 ![Stars](https://img.shields.io/github/stars/QizhiPei/FABind?color=yellow&style=social)
 
 
+**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**  
+Yan, Jiaxian et al  
+*ArXiv abs/2311.18574 (2023)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.18574)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbedc29f7b553bd322df265e2c5a215f1dfd19b4e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction**  
+Cao, Duanhua et al  
+*bioRxiv (2023): n. pag*  
+[![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.12.13.571408v1.full.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F48753fd45da00aa39a4a14841683158f73625d38%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/CAODH/SurfDock)
+![Stars](https://img.shields.io/github/stars/CAODH/SurfDock)?color=yellow&style=social)
+
+
+**DiffBindFR: An SE(3) Equivariant Network for Flexible Protein-Ligand Docking**  
+Zhu, Jintao et al    
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.15201)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F04911aa5c3b5d6d07507a0079ebbe6c504a462ae%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HBioquant/DiffBindFR)
+![Stars](https://img.shields.io/github/stars/HBioquant/DiffBindFR?color=yellow&style=social)
+
+
+**Pre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction Models**  
+Liu, Lihang et al  
+*ArXiv abs/2310.13913 (2023): n. pag*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2310.13913)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe0b05305ce09e20d64394753ac2eca2f7aaf7d9d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock)
+![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleHelix?color=yellow&style=social)
+
+
+**Structure prediction of protein-ligand complexes from sequence information with Umol**  
+Bryant, Patrick et al  
+*Nature Communications 15 (2023): n. pag*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-48837-6)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3660911f955c532c186de3b52b03396c851c0aac%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/patrickbryant1/Umol)
+![Stars](https://img.shields.io/github/stars/patrickbryant1/Umol?color=yellow&style=social)
+
+
+**Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom**  
+Krishna, Rohith et al  
+*bioRxiv (2023): n. pag*  
+[![](https://img.shields.io/badge/science-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.science.org/doi/10.1126/science.adl2528)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbbd97deb6e06fe24c5f20fa85e1f276e3065f99f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
+![Stars](https://img.shields.io/github/stars/baker-laboratory/RoseTTAFold-All-Atom?color=yellow&style=social)
+
+
 ### 2022 -- Binding-pose-generation
 **Equibind: Geometric deep learning for drug binding structure prediction**  
 Stärk, Hannes, et al  
@@ -320,7 +443,9 @@ Méndez-Lucio, Oscar, et al
 ![Stars](https://img.shields.io/github/stars/OptiMaL-PSE-Lab/DeepDock?color=yellow&style=social)
 
 
+## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
 
+## Binding affinity prediction
 **ScanNet: an interpretable geometric deep learning model for structure-based protein binding site prediction**  
 Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson  
 *Nature Methods 19.6 (2022): 730-739*  
@@ -329,25 +454,6 @@ Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jertubiana/ScanNet)
 ![Stars](https://img.shields.io/github/stars/jertubiana/ScanNet?color=yellow&style=social)
 
-
-
-- [ ] Yan, Jiaxian et al. “Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking.” ArXiv abs/2311.18574 (2023): n. pag. [[Paper](https://arxiv.org/abs/2311.18574)]
-- [ ] Cao, Duanhua et al. “SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction.” bioRxiv (2023): n. pag. [[Paper](https://www.biorxiv.org/content/10.1101/2023.12.13.571408v1.full.pdf)][[Code](https://github.com/CAODH/SurfDock)]
-- [ ] Zhu, Jintao et al. “DiffBindFR: An SE(3) Equivariant Network for Flexible Protein-Ligand Docking.” (2023). [[Paper](https://arxiv.org/abs/2311.15201)][[Code](https://github.com/HBioquant/DiffBindFR)]
-- [ ] Zhang, Runze et al. “PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking.” bioRxiv (2024): n. pag. [[Paper](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)][[Code](https://github.com/Zhang-Runze/PackDock)]
-- [ ] Huang, Yufei et al. “Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge.” (2024). [[Paper](https://arxiv.org/pdf/2402.11459.pdf)]
-- [ ] Jing, Bowen et al. “Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms.” International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/forum?id=BIveOmD1Nh)][[Code](https://github.com/bjing2016/scalar-fields)]
-- [ ] Stärk, Hannes et al. "Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2310.05764)][[Code](https://github.com/HannesStark/FlowSite)]
-- [ ] Alcaide, Eric et al. “Uni-Mol Docking V2: Towards Realistic and Accurate Binding Pose Prediction.” ArXiv abs/2405.11769 (2024): n. pag. [[Paper](https://arxiv.org/pdf/2405.11769)][[Code](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol_docking_v2)]
-- [ ] Gao, Kaiyuan et al. “FABind+: Enhancing Molecular Docking through Improved Pocket Prediction and Pose Generation.” ArXiv abs/2403.20261 (2024): n. pag. [[Paper](https://arxiv.org/pdf/2403.20261)][[Code](https://github.com/QizhiPei/FABind/tree/main/FABind_plus)]
-- [ ] Corso, Gabriele et al. “Deep Confident Steps to New Pockets: Strategies for Docking Generalization.” ArXiv (2024): n. pag. [[Paper](https://openreview.net/pdf?id=UfBIxpTK10)][[Code](https://github.com/gcorso/DiffDock)]
-- [ ] Liu, Lihang et al. “Pre-Training on Large-Scale Generated Docking Conformations with HelixDock to Unlock the Potential of Protein-ligand Structure Prediction Models.” ArXiv abs/2310.13913 (2023): n. pag. [[Paper](https://arxiv.org/pdf/2310.13913)][[Code](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock)]
-- [ ] Bryant, Patrick et al. “Structure prediction of protein-ligand complexes from sequence information with Umol.” Nature Communications 15 (2023): n. pag. [[Paper](https://www.nature.com/articles/s41467-024-48837-6)][[Code](https://github.com/patrickbryant1/Umol)]
-- [ ] Boitreaud, Jacques et al. “Chai-1: Decoding the molecular interactions of life.” bioRxiv (2024): n. pag. [[Paper](https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2.full.pdf)][[Code](https://github.com/chaidiscovery/chai-lab)]
-- [ ] Abramson, Josh et al. “Accurate structure prediction of biomolecular interactions with AlphaFold 3.” Nature 630 (2024): 493 - 500. [[Paper](https://www.nature.com/articles/s41586-024-07487-w)]
-- [ ] Krishna, Rohith et al. “Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom.” bioRxiv (2023): n. pag. [[Paper](https://www.science.org/doi/10.1126/science.adl2528)][[Code](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)]
-
-## Binding affinity prediction
 - [ ] Li, Shuangli, et al. "Structure-aware interactive graph neural networks for the prediction of protein-ligand binding affinity." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467311)][[Code](https://github.com/agave233/SIGN)]
 - [ ] Moon, Seokhyun, et al. "PIGNet: a physics-informed deep learning model toward generalized drug–target interaction predictions." Chemical Science 13.13 (2022): 3661-3673. [[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc06946b)][[Code](https://github.com/ACE-KAIST/PIGNet)]
 - [ ] Somnath, Vignesh Ram, Charlotte Bunne, and Andreas Krause. "Multi-scale representation learning on proteins." Advances in Neural Information Processing Systems 34 (2021): 25244-25255. [[Paper](https://openreview.net/forum?id=-xEk43f_EO6)][[Code](https://github.com/vsomnath/holoprot)]
