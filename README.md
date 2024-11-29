@@ -443,46 +443,201 @@ Méndez-Lucio, Oscar, et al
 ![Stars](https://img.shields.io/github/stars/OptiMaL-PSE-Lab/DeepDock?color=yellow&style=social)
 
 
-## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
-
 ## Binding affinity prediction
+
 ### 2024 -- Binding-affinity-prediction
+**ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling**  
+Zheng, Kangjie et al  
+*International Conference on Machine Learning, 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2403.12995)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fbbfc82109297ca06cd8c163c3aeaa1b4d1a23fb9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zhengkangjie/ESM-AA)
+![Stars](https://img.shields.io/github/stars/zhengkangjie/ESM-AA?color=yellow&style=social)
 
 
+**Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning**  
+Kong, Xiangzhe et al  
+*International Conference on Machine Learning, 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2306.01474)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3187b8fe34086d71135787ad12afe6eb8993ce1f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/THUNLP-MT/GET)
+![Stars](https://img.shields.io/github/stars/THUNLP-MT/GET?color=yellow&style=social)
 
+
+**Protein-ligand binding representation learning from fine-grained interactions**  
+Feng, Shikun et al  
+*International Conference on Learning Representations, 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2311.16160)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fea273532f62f021accbdc4c703f52abae3aebdce%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 ### 2023 -- Binding-affinity-prediction
+**Geometric Interaction Graph Neural Network for Predicting Protein–Ligand Binding Affinities from 3D Structures (GIGN)**  
+Yang, Ziduo, et al  
+*The Journal of Physical Chemistry Letters 14.8 (2023): 2020-2033*  
+[![](https://img.shields.io/badge/acs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c03906)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F09e85279b10e1532e05bf8a18389a0d398cd0503%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/guaguabujianle/GIGN)
+![Stars](https://img.shields.io/github/stars/guaguabujianle/GIGN?color=yellow&style=social)
 
 
+**Multi-task Bioassay Pre-training for Protein-ligand Binding Affinity Prediction**  
+Yan, Jiaxian, et al  
+*arXiv preprint arXiv:2306.04886 (2023)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2306.04886)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa3f5fa0897ba260aa3d89ba6fc358f742f379a55%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+
+**Improving drug-target affinity prediction via feature fusion and knowledge distillation**  
+Lu, Ruiqiang, et al  
+*Briefings in Bioinformatics 24.3 (2023)*  
+[![](https://img.shields.io/badge/academic-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bib/article/24/3/bbad145/7142721)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2cec660ffaa9c7001afaf37b4fc2ef756ad89808%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/RuiqiangLu/KIDA)
+![Stars](https://img.shields.io/github/stars/RuiqiangLu/KIDA?color=yellow&style=social)
+
+
+**GIANT: Protein-Ligand Binding Affinity Prediction via Geometry-aware Interactive Graph Neural Network**  
+Li, Shuangli et al  
+*IEEE Transactions on Knowledge and Data Engineering (2023): n. pag*  
+[![](https://img.shields.io/badge/computer-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.computer.org/csdl/journal/tk/2024/05/10250845/1Qpfiqmfqko)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff7695ab8f60d121321b7fd30c44c6d503035d06e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zaixizhang/Awesome-SBDD/blob/main)
+![Stars](https://img.shields.io/github/stars/Awesome-SBDD/blob?color=yellow&style=social)
 
 
 ### 2022 -- Binding-affinity-prediction
+**PIGNet: a physics-informed deep learning model toward generalized drug–target interaction predictions**  
+Moon, Seokhyun, et al  
+*Chemical Science 13.13 (2022): 3661-3673*  
+[![](https://img.shields.io/badge/rsc-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc06946b)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8019fb16bbb35f60d5d9c4052b91739e24879be3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/ACE-KAIST/PIGNet)
+![Stars](https://img.shields.io/github/stars/ACE-KAIST/PIGNet?color=yellow&style=social)
 
 
+**Protein-ligand interaction graphs: Learning from ligand-shaped 3d interaction graphs to improve binding affinity prediction**  
+Moesser, Marc A., et al  
+*bioRxiv (2022): 2022-03*  
+[![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2022.03.04.483012v1)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb0e1fd72034388c6163f6002a6228bead3ff9a37%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/MarcMoesser/Protein-Ligand-Interaction-Graphs)
+![Stars](https://img.shields.io/github/stars/MarcMoesser/Protein-Ligand-Interaction-Graphs?color=yellow&style=social)
 
+
+**Efficient and Accurate Physics-aware Multiplex Graph Neural Networks for 3D Small Molecules and Macromolecule Complexes**  
+Zhang, Shuo, Yang Liu, and Lei Xie  
+*arXiv preprint arXiv:2206.02789 (2022)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2206.02789)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F833ff3cc34c73267ce8265a3c09081fcfeb95325%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 ### 2021 -- Binding-affinity-prediction
+**Structure-aware interactive graph neural networks for the prediction of protein-ligand binding affinity**  
+Li, Shuangli, et al  
+*Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021*  
+[![](https://img.shields.io/badge/acm-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3447548.3467311)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fef41b29312860bc284640e35ab499053f4966bbf%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/agave233/SIGN)
+![Stars](https://img.shields.io/github/stars/agave233/SIGN?color=yellow&style=social)
 
 
+**Multi-scale representation learning on proteins**  
+Somnath, Vignesh Ram, Charlotte Bunne, and Andreas Krause  
+*Advances in Neural Information Processing Systems 34 (2021): 25244-25255*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=-xEk43f_EO6)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7c8c1b97463a976e0a133fd72425d6b4cb12c1bc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/vsomnath/holoprot)
+![Stars](https://img.shields.io/github/stars/vsomnath/holoprot?color=yellow&style=social)
 
+
+**Interactiongraphnet: A novel and efficient deep graph representation learning framework for accurate protein–ligand interaction predictions**  
+Jiang, Dejun, et al  
+*Journal of medicinal chemistry 64.24 (2021): 18209-18232*  
+[![](https://img.shields.io/badge/acs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c01830)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F517c7e17ff67d70c0a57d4da6acda0ec13f58d75%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zjujdj/IGN)
+![Stars](https://img.shields.io/github/stars/zjujdj/IGN?color=yellow&style=social)
+
+
+**Intrinsic-extrinsic convolution and pooling for learning on 3d protein structures**  
+Hermosilla, Pedro, et al  
+*International Conference on Learning Representations. 2021*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=l0mSUROpwY)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18939e167782868f9d5c63e1c7908c1bf70eb284%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/phermosilla/IEConv_proteins)
+![Stars](https://img.shields.io/github/stars/phermosilla/IEConv_proteins?color=yellow&style=social)
+
+
+**Improved protein–ligand binding affinity prediction with structure-based deep fusion inference**  
+Jones, Derek, et al  
+*Journal of chemical information and modeling 61.4 (2021)*  
+[![](https://img.shields.io/badge/acs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01306)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcbba6806a864086b5ddf56a0db7462eab2271f30%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/llnl/fast)
+![Stars](https://img.shields.io/github/stars/llnl/fast?color=yellow&style=social)
 
 
 ### 2020 -- Binding-affinity-prediction
-
-
-
+**RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks**  
+Hassan-Harrirou, Hussein, Ce Zhang, and Thomas Lemmin  
+*Journal of chemical information and modeling 60.6 (2020): 2791-2802*  
+[![](https://img.shields.io/badge/acs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00075)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e186ceeff16b19d1f705edef2d662d20fc5ad39%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/DS3Lab/RosENet/tree/master)
+![Stars](https://img.shields.io/github/stars/DS3Lab/RosENet?color=yellow&style=social)
 
 
 ### 2019 -- Binding-affinity-prediction
-
-
-
+**DeepAtom: A framework for protein-ligand binding affinity prediction**  
+Li, Yanjun, et al  
+*2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019*  
+[![](https://img.shields.io/badge/ieee-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/document/8982964)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb212b0270cf5874f9a1c8e0b4cb144c49dfc2eca%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/YanjunLi-CS/DeepAtom_SupplementaryMaterials)
+![Stars](https://img.shields.io/github/stars/YanjunLi-CS/DeepAtom_SupplementaryMaterials?color=yellow&style=social)
 
 
 ### 2018 -- Binding-affinity-prediction
+**Development and evaluation of a deep learning model for protein–ligand binding affinity prediction**  
+Stepniewska-Dziubinska, Marta M., Piotr Zielenkiewicz, and Pawel Siedlecki  
+*Bioinformatics 34.21 (2018): 3666-3674*  
+[![](https://img.shields.io/badge/academic-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/34/21/3666/4994792)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9114a51ef81d88f256e574df1ac8f1a59416f54f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://gitlab.com/cheminfIBB/pafnucy)
+![Stars](https://img.shields.io/github/stars/cheminfIBB/pafnucy?color=yellow&style=social)
+
+
+
+## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
+
+## De novo ligand generation
+
+### 2024 -- De-novo-ligand-generation
+
+
+
+
+
+### 2023 -- De-novo-ligand-generation
+
+
+
+
+
+### 2022 -- De-novo-ligand-generation
+
+
+
+
+
+### 2021 -- De-novo-ligand-generation
+
+
+
+
+
+### 2020 -- De-novo-ligand-generation
 
 
 
@@ -497,26 +652,6 @@ Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jertubiana/ScanNet)
 ![Stars](https://img.shields.io/github/stars/jertubiana/ScanNet?color=yellow&style=social)
 
-- [ ] Li, Shuangli, et al. "Structure-aware interactive graph neural networks for the prediction of protein-ligand binding affinity." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467311)][[Code](https://github.com/agave233/SIGN)]
-- [ ] Moon, Seokhyun, et al. "PIGNet: a physics-informed deep learning model toward generalized drug–target interaction predictions." Chemical Science 13.13 (2022): 3661-3673. [[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc06946b)][[Code](https://github.com/ACE-KAIST/PIGNet)]
-- [ ] Somnath, Vignesh Ram, Charlotte Bunne, and Andreas Krause. "Multi-scale representation learning on proteins." Advances in Neural Information Processing Systems 34 (2021): 25244-25255. [[Paper](https://openreview.net/forum?id=-xEk43f_EO6)][[Code](https://github.com/vsomnath/holoprot)]
-- [ ] Moesser, Marc A., et al. "Protein-ligand interaction graphs: Learning from ligand-shaped 3d interaction graphs to improve binding affinity prediction." bioRxiv (2022): 2022-03. [[Paper](https://www.biorxiv.org/content/10.1101/2022.03.04.483012v1)][[Code](https://github.com/MarcMoesser/Protein-Ligand-Interaction-Graphs)]
-- [ ] Zhang, Shuo, Yang Liu, and Lei Xie. "Efficient and Accurate Physics-aware Multiplex Graph Neural Networks for 3D Small Molecules and Macromolecule Complexes." arXiv preprint arXiv:2206.02789 (2022). [[Paper](https://arxiv.org/abs/2206.02789)]
-- [ ] Jiang, Dejun, et al. "Interactiongraphnet: A novel and efficient deep graph representation learning framework for accurate protein–ligand interaction predictions." Journal of medicinal chemistry 64.24 (2021): 18209-18232. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c01830)][[Code](https://github.com/zjujdj/IGN)]
-- [ ] Yang, Ziduo, et al. "Geometric Interaction Graph Neural Network for Predicting Protein–Ligand Binding Affinities from 3D Structures (GIGN)." The Journal of Physical Chemistry Letters 14.8 (2023): 2020-2033. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c03906)][[Code](https://github.com/guaguabujianle/GIGN)]
-- [ ] Yan, Jiaxian, et al. "Multi-task Bioassay Pre-training for Protein-ligand Binding Affinity Prediction." arXiv preprint arXiv:2306.04886 (2023). [[Paper](https://arxiv.org/abs/2306.04886)]
-- [ ] Stepniewska-Dziubinska, Marta M., Piotr Zielenkiewicz, and Pawel Siedlecki. "Development and evaluation of a deep learning model for protein–ligand binding affinity prediction." Bioinformatics 34.21 (2018): 3666-3674. [[Paper](https://academic.oup.com/bioinformatics/article/34/21/3666/4994792)][[Code](https://gitlab.com/cheminfIBB/pafnucy)]
-- [ ] Li, Yanjun, et al. "DeepAtom: A framework for protein-ligand binding affinity prediction." 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2019. [[Paper](https://ieeexplore.ieee.org/document/8982964)][[Code](https://github.com/YanjunLi-CS/DeepAtom_SupplementaryMaterials)]
-- [ ] Hassan-Harrirou, Hussein, Ce Zhang, and Thomas Lemmin. "RosENet: improving binding affinity prediction by leveraging molecular mechanics energies with an ensemble of 3D convolutional neural networks." Journal of chemical information and modeling 60.6 (2020): 2791-2802. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00075)][[Code](https://github.com/DS3Lab/RosENet/tree/master)]
-- [ ] Hermosilla, Pedro, et al. "Intrinsic-extrinsic convolution and pooling for learning on 3d protein structures." International Conference on Learning Representations. 2021. [[Paper](https://openreview.net/forum?id=l0mSUROpwY)][[Code](https://github.com/phermosilla/IEConv_proteins)]
-- [ ] Lu, Ruiqiang, et al. "Improving drug-target affinity prediction via feature fusion and knowledge distillation." Briefings in Bioinformatics 24.3 (2023): bbad145. [[Paper](https://academic.oup.com/bib/article/24/3/bbad145/7142721)][[Code](https://github.com/RuiqiangLu/KIDA)]
-- [ ] Jones, Derek, et al. "Improved protein–ligand binding affinity prediction with structure-based deep fusion inference." Journal of chemical information and modeling 61.4 (2021): 1583-1592. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.0c01306)][[Code](https://github.com/llnl/fast)]
-- [ ] Li, Shuangli et al. “GIANT: Protein-Ligand Binding Affinity Prediction via Geometry-aware Interactive Graph Neural Network.” IEEE Transactions on Knowledge and Data Engineering (2023): n. pag. [[Paper](https://www.computer.org/csdl/journal/tk/2024/05/10250845/1Qpfiqmfqko)][[Code]()]
-- [ ] Zheng, Kangjie et al. "ESM All-Atom: Multi-scale Protein Language Model for Unified Molecular Modeling." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2403.12995)][[Code](https://github.com/zhengkangjie/ESM-AA)]
-- [ ] Kong, Xiangzhe et al. "Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning." International Conference on Machine Learning, 2024 [[Paper](https://arxiv.org/abs/2306.01474)][[Code](https://github.com/THUNLP-MT/GET)]
-- [ ] Feng, Shikun et al. "Protein-ligand binding representation learning from fine-grained interactions." International Conference on Learning Representations, 2024 [[Paper](https://arxiv.org/abs/2311.16160)]
-
-## De novo ligand generation
 - [ ] Spiegel, Jacob O., and Jacob D. Durrant. "AutoGrow4: an open-source genetic algorithm for de novo drug design and lead optimization." Journal of cheminformatics 12.1 (2020): 1-16. [[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00429-4)][[Code](https://durrantlab.pitt.edu/autogrow4/)]
 - [ ] Fu, Tianfan, et al. "Reinforced genetic algorithm for structure-based drug design." Advances in Neural Information Processing Systems 35 (2022): 12325-12338. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/4fe1859112230a032c7143a9adc3be78-Paper-Conference.pdf)][[Code](https://github.com/futianfan/reinforced-genetic-algorithm)]
 - [ ] Masuda, Tomohide, Matthew Ragoza, and David Ryan Koes. "Generating 3d molecular structures conditional on a receptor binding site with deep generative models." arXiv preprint arXiv:2010.14442 (2020). [[Paper](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d1sc05976a)][[Code](https://github.com/mattragoza/LiGAN)]
