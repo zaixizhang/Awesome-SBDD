@@ -645,6 +645,61 @@ Zhang, Zaixi, et al
 ![Stars](https://img.shields.io/github/stars/zaixizhang/FLAG?color=yellow&style=social)
 
 
+**Learning Subpocket Prototypes for Generalizable Structure-based Drug Design**  
+Zhang, Zaixi, and Qi Liu  
+*International Conference on Machine Learning. PMLR, 2023*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2305.13997)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7ae6e65ff850fcd95669a5e8ac71b8f4abaabaf9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zaixizhang/DrugGPS_ICML23)
+![Stars](https://img.shields.io/github/stars/zaixizhang/DrugGPS_ICML23?color=yellow&style=social)
+
+
+**Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model**  
+Wang, Lvwei, et al  
+*arXiv preprint arXiv:2305.10133 (2023)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2305.10133)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F50f0dce9ab62001e3d1132169a7a14529c7bd75f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://sw3dmg.stonewise.cn/#/)
+
+
+**An Equivariant Generative Framework for Molecular Graph-Structure Co-Design**  
+Zhang, Zaixi, et al  
+*bioRxiv (2023): 2023-04*  
+[![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.04.13.536803v1)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa46c12129e2b195d7d68e4faf9e36a90ea60246b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zaixizhang/MolCode)
+![Stars](https://img.shields.io/github/stars/zaixizhang/MolCode?color=yellow&style=social)
+
+
+**GraphVF: Controllable Protein-Specific 3D Molecule Generation with Variational Flow**  
+Sun, Fang, et al  
+*arXiv preprint arXiv:2304.12825 (2023)*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=IB5Njg_ztYB)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9543241def67c49a97b9fcbd1f57b565e8053a4a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/franco-solis/graphvf-code)
+![Stars](https://img.shields.io/github/stars/franco-solis/graphvf-code?color=yellow&style=social)
+
+
+**Structure-Based Drug Design via Semi-Equivariant Conditional Normalizing Flows**  
+Rozenberg, Eyal, Ehud Rivlin, and Daniel Freedman  
+*ICLR 2023-Machine Learning for Drug Discovery workshop. 2023*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=TY5iNiUSo-)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10cd1b2b3e148cf1b2bc65086883aea0d91b7e7b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**3d equivariant diffusion for target-aware molecule generation and affinity prediction**  
+Guan, Jiaqi, et al  
+*International Conference on Learning Representations. 2023*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=kJqXEPXMsE0)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F59713b444d3268528416f23fe860ba63bb03fc04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/guanjq/targetdiff)
+![Stars](https://img.shields.io/github/stars/guanjq/targetdiff?color=yellow&style=social)
+
+
+
+
+
+
 
 
 
@@ -692,6 +747,34 @@ Long, Siyu, et al
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe6857bd08cbe550642a8048c27dc069142d342d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/longlongman/DESERT)
 ![Stars](https://img.shields.io/github/stars/longlongman/DESERT?color=yellow&style=social)
+
+
+**Generating 3d molecules for target protein binding**  
+Liu, Meng, et al  
+*International Conference on Machine Learning. PMLR, 2022*  
+[![](https://img.shields.io/badge/proceedings_mlr_press-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v162/liu22m/liu22m.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd22a60973ca65a2e4e39b5a69c0370f02b255c0d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/divelab/GraphBP)
+![Stars](https://img.shields.io/github/stars/divelab/GraphBP?color=yellow&style=social)
+
+
+**Structure-based drug design with equivariant diffusion models**  
+Schneuing, Arne, et al  
+*arXiv preprint arXiv:2210.13695 (2022)*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2210.13695)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F522d00e2540df1c4a4c4b7f8da843ffd937f77c4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/arneschneuing/DiffSBDD)
+![Stars](https://img.shields.io/github/stars/arneschneuing/DiffSBDD?color=yellow&style=social)
+
+
+**DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding**  
+Lin, Haitao, et al  
+*arXiv preprint arXiv:2211.11214 (2022)*  
+[![](https://img.shields.io/badge/proceedings_mlr_press-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v162/liu22m/liu22m.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F84e07c84a411ec5ed0828049d777b9cb8129c14d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/divelab/GraphBP)
+![Stars](https://img.shields.io/github/stars/divelab/GraphBP?color=yellow&style=social)
+
 
 
 
@@ -751,15 +834,6 @@ Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jertubiana/ScanNet)
 ![Stars](https://img.shields.io/github/stars/jertubiana/ScanNet?color=yellow&style=social)
 
-- [ ] Zhang, Zaixi, and Qi Liu. "Learning Subpocket Prototypes for Generalizable Structure-based Drug Design." International Conference on Machine Learning. PMLR, 2023. [[Paper](https://arxiv.org/abs/2305.13997)][[Code](https://github.com/zaixizhang/DrugGPS_ICML23)]
-- [ ] Wang, Lvwei, et al. "Lingo3DMol: Generation of a Pocket-based 3D Molecule using a Language Model." arXiv preprint arXiv:2305.10133 (2023). [[Paper](https://arxiv.org/abs/2305.10133)][[Code](https://sw3dmg.stonewise.cn/#/)]
-- [ ] Liu, Meng, et al. "Generating 3d molecules for target protein binding." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/liu22m/liu22m.pdf)][[Code](https://github.com/divelab/GraphBP)]
-- [ ] Zhang, Zaixi, et al. "An Equivariant Generative Framework for Molecular Graph-Structure Co-Design." bioRxiv (2023): 2023-04. [[Paper](https://www.biorxiv.org/content/10.1101/2023.04.13.536803v1)][[Code](https://github.com/zaixizhang/MolCode)]
-- [ ] Sun, Fang, et al. "GraphVF: Controllable Protein-Specific 3D Molecule Generation with Variational Flow." arXiv preprint arXiv:2304.12825 (2023). [[Paper](https://openreview.net/forum?id=IB5Njg_ztYB)][[Code](https://github.com/franco-solis/graphvf-code)]
-- [ ] Rozenberg, Eyal, Ehud Rivlin, and Daniel Freedman. "Structure-Based Drug Design via Semi-Equivariant Conditional Normalizing Flows." ICLR 2023-Machine Learning for Drug Discovery workshop. 2023. [[Paper](https://openreview.net/forum?id=TY5iNiUSo-)]
-- [ ] Schneuing, Arne, et al. "Structure-based drug design with equivariant diffusion models." arXiv preprint arXiv:2210.13695 (2022). [[Paper](https://arxiv.org/abs/2210.13695)][[Code](https://github.com/arneschneuing/DiffSBDD)]
-- [ ] Guan, Jiaqi, et al. "3d equivariant diffusion for target-aware molecule generation and affinity prediction." International Conference on Learning Representations. 2023. [[Paper](https://openreview.net/forum?id=kJqXEPXMsE0)][[Code](https://github.com/guanjq/targetdiff)]
-- [ ] Lin, Haitao, et al. "DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding." arXiv preprint arXiv:2211.11214 (2022). [[Paper](https://proceedings.mlr.press/v162/liu22m/liu22m.pdf)][[Code](https://github.com/divelab/GraphBP)]
 - [ ] Zhang, Odin et al. “ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling.” Nature Machine Intelligence 5 (2023): 1020 - 1030. [[Paper](https://www.nature.com/articles/s42256-023-00712-7)][[Code](https://github.com/HaotianZhangAI4Science/ResGen)]
 - [ ] Zhang, Odin et al. “Learning on topological surface and geometric structure for 3D molecular generation.” Nature Computational Science 3 (2023): 849 - 859. [[Paper](https://www.nature.com/articles/s43588-023-00530-2)][[Code](https://github.com/HaotianZhangAI4Science/SurfGen)]
 - [ ] Guan, Jiaqi et al. “DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design.” International Conference on Machine Learning (2023). [[Paper](https://proceedings.mlr.press/v202/guan23a/guan23a.pdf)][[Code](https://github.com/bytedance/DecompDiff)]
