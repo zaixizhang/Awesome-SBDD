@@ -446,6 +446,49 @@ Méndez-Lucio, Oscar, et al
 ## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
 
 ## Binding affinity prediction
+### 2024 -- Binding-affinity-prediction
+
+
+
+
+
+### 2023 -- Binding-affinity-prediction
+
+
+
+
+
+### 2022 -- Binding-affinity-prediction
+
+
+
+
+
+### 2021 -- Binding-affinity-prediction
+
+
+
+
+
+### 2020 -- Binding-affinity-prediction
+
+
+
+
+
+### 2019 -- Binding-affinity-prediction
+
+
+
+
+
+### 2018 -- Binding-affinity-prediction
+
+
+
+
+
+
 **ScanNet: an interpretable geometric deep learning model for structure-based protein binding site prediction**  
 Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson  
 *Nature Methods 19.6 (2022): 730-739*  
