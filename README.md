@@ -608,15 +608,32 @@ Stepniewska-Dziubinska, Marta M., Piotr Zielenkiewicz, and Pawel Siedlecki
 ![Stars](https://img.shields.io/github/stars/cheminfIBB/pafnucy?color=yellow&style=social)
 
 
-
-## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
-
 ## De novo ligand generation
 
 ### 2024 -- De-novo-ligand-generation
+**Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models**  
+Huang, Zhilin et al  
+*International Conference on Learning Representations, 2024*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=qH9nrMNTIW)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F93d587ece496aceafc5ffa66f9ebdf74a8538a62%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/YangLing0818/IPDiff)
+![Stars](https://img.shields.io/github/stars/YangLing0818/IPDiff?color=yellow&style=social)
 
 
+**DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization**  
+Zhou, Xiangxin et al  
+*International Conference on Learning Representations, 2024*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=Y3BbxvAQS9)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F864abba6a2b3dc2cf4bb94e5e562d42fa7095814%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+
+**Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation**  
+Huang, Zhilin et al  
+*International Conference on Machine Learning, 2024*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=eejhD9FCP3)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4976f7d7f97a83ab255a57d266c19cf094f2652a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/YangLing0818/IRDiff)
+![Stars](https://img.shields.io/github/stars/YangLing0818/IRDiff?color=yellow&style=social)
 
 
 ### 2023 -- De-novo-ligand-generation
@@ -696,13 +713,38 @@ Guan, Jiaqi, et al
 ![Stars](https://img.shields.io/github/stars/guanjq/targetdiff?color=yellow&style=social)
 
 
+**ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling**  
+Zhang, Odin et al  
+*Nature Machine Intelligence 5 (2023): 1020 - 1030*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-022-01490-7)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffee3cf16cd3e3bf0e57f19bb98e8557384a2bfbc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HaotianZhangAI4Science/ResGen)
+![Stars](https://img.shields.io/github/stars/HaotianZhangAI4Science/ResGen?color=yellow&style=social)
 
 
+**Learning on topological surface and geometric structure for 3D molecular generation**  
+Zhang, Odin et al  
+*Nature Computational Science 3 (2023): 849 - 859*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s43588-023-00530-2)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F031eb3367cc24fe568a6e7c77df53cb935d7b86f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/HaotianZhangAI4Science/SurfGen)
+![Stars](https://img.shields.io/github/stars/HaotianZhangAI4Science/SurfGen?color=yellow&style=social)
 
 
+**DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design**  
+Guan, Jiaqi et al  
+*International Conference on Machine Learning (2023)*  
+[![](https://img.shields.io/badge/proceedings_mlr_press-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v202/guan23a/guan23a.pdf)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd086b0e2fb58024ce264e985334eddd1314f0e7b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bytedance/DecompDiff)
+![Stars](https://img.shields.io/github/stars/bytedance/DecompDiff?color=yellow&style=social)
 
 
-
+**Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration**  
+Lin, Haitao et al  
+*ArXiv abs/2306.13769 (2023): n. pag*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=lRG11M91dx)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe499649e26e12971a6d62a23491d64620913af72%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 ### 2022 -- De-novo-ligand-generation
@@ -776,12 +818,6 @@ Lin, Haitao, et al
 ![Stars](https://img.shields.io/github/stars/divelab/GraphBP?color=yellow&style=social)
 
 
-
-
-
-
-
-
 ### 2021 -- De-novo-ligand-generation
 **Structure-based de novo drug design using 3D deep generative models**  
 Li, Yibo, Jianfeng Pei, and Luhua Lai  
@@ -797,10 +833,6 @@ Luo, Shitong, et al
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd651f7b09f554482bc7a5ffa1381dda1dc73050c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/luost26/3D-Generative-SBDD)
 ![Stars](https://img.shields.io/github/stars/luost26/3D-Generative-SBDD?color=yellow&style=social)
-
-
-
-
 
 
 ### 2020 -- De-novo-ligand-generation
@@ -821,11 +853,9 @@ Masuda, Tomohide, Matthew Ragoza, and David Ryan Koes
 ![Stars](https://img.shields.io/github/stars/mattragoza/LiGAN?color=yellow&style=social)
 
 
+## 分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线分界线 ##
 
-
-
-
-
+## Linker design
 **ScanNet: an interpretable geometric deep learning model for structure-based protein binding site prediction**  
 Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson  
 *Nature Methods 19.6 (2022): 730-739*  
@@ -834,15 +864,6 @@ Tubiana, Jérôme, Dina Schneidman-Duhovny, and Haim J. Wolfson
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jertubiana/ScanNet)
 ![Stars](https://img.shields.io/github/stars/jertubiana/ScanNet?color=yellow&style=social)
 
-- [ ] Zhang, Odin et al. “ResGen is a pocket-aware 3D molecular generation model based on parallel multiscale modelling.” Nature Machine Intelligence 5 (2023): 1020 - 1030. [[Paper](https://www.nature.com/articles/s42256-023-00712-7)][[Code](https://github.com/HaotianZhangAI4Science/ResGen)]
-- [ ] Zhang, Odin et al. “Learning on topological surface and geometric structure for 3D molecular generation.” Nature Computational Science 3 (2023): 849 - 859. [[Paper](https://www.nature.com/articles/s43588-023-00530-2)][[Code](https://github.com/HaotianZhangAI4Science/SurfGen)]
-- [ ] Guan, Jiaqi et al. “DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design.” International Conference on Machine Learning (2023). [[Paper](https://proceedings.mlr.press/v202/guan23a/guan23a.pdf)][[Code](https://github.com/bytedance/DecompDiff)]
-- [ ] Lin, Haitao et al. “Functional-Group-Based Diffusion for Pocket-Specific Molecule Generation and Elaboration.” ArXiv abs/2306.13769 (2023): n. pag. [[Paper](https://openreview.net/pdf?id=lRG11M91dx)]
-- [ ] Huang, Zhilin et al. "Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models." International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/pdf?id=qH9nrMNTIW)][[Code](https://github.com/YangLing0818/IPDiff)]
-- [ ] Zhou, Xiangxin et al. "DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization." International Conference on Learning Representations, 2024 [[Paper](https://openreview.net/forum?id=Y3BbxvAQS9)]
-- [ ] Huang, Zhilin et al. "Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation." International Conference on Machine Learning, 2024 [[Paper](https://openreview.net/pdf?id=eejhD9FCP3)][[Code](https://github.com/YangLing0818/IRDiff)]
-
-## Linker design
 - [ ] Imrie, Fergus, et al. "Deep generative models for 3D linker design." Journal of chemical information and modeling 60.4 (2020): 1983-1995. [[Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.9b01120)][[Code](https://github.com/oxpig/DeLinker)]
 - [ ] Huang, Yinan, et al. "3dlinker: An e (3) equivariant variational autoencoder for molecular linker design." International Conference on Machine Learning. PMLR, 2022. [[Paper](https://proceedings.mlr.press/v162/huang22g/huang22g.pdf)][[Code](https://github.com/YinanHuang/3DLinker)]
 - [ ] Chen, Hongming. "3D Based Generative PROTAC Linker Design with Reinforcement Learning." (2023). [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/646c5a71b3dd6a653095b6ec)]
