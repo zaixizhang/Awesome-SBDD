@@ -51,9 +51,9 @@ We will try to make this list updated. If you found any error or any missed pape
 **Surface-VQMAE: Vector-quantized Masked Auto-encoders on Molecular Surfaces**  
 Wu, Fang et al  
 *International Conference on Machine Learning, 2024*  
-[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=szxtVHOh0C)  
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0b0ae49d2c933576d81146ac1ca7ff97f7ab910b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)  
-[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/smiles724/VQMAE)  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=szxtVHOh0C)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0b0ae49d2c933576d81146ac1ca7ff97f7ab910b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/smiles724/VQMAE)
 ![Stars](https://img.shields.io/github/stars/smiles724/VQMAE?color=yellow&style=social)
 
 
