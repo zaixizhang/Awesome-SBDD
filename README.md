@@ -159,7 +159,7 @@ Jiménez, José, et al
 
 ## Binding pose generation
 ### 2024 -- Binding-pose-generation
-**DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**
+**DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**  
 Lu, Wei et al  
 *Nature Communications 15 (2024)*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-45461-2)
@@ -428,14 +428,14 @@ Lu, Wei, et al
 
 ### 2021 -- Binding-pose-generation
 **State-specific protein-ligand complex structure prediction with a multi-scale deep generative model**  
-Qiao, Zhuoran et al 
+Qiao, Zhuoran et al  
 *arXiv preprint arXiv:2209.15171 (2021)*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2209.15171)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc9561b15c25ca781ccf1a384e978e28341bac0e4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 **A geometric deep learning approach to predict binding conformations of bioactive molecules**  
-Méndez-Lucio, Oscar, et al 
+Méndez-Lucio, Oscar, et al   
 *Nature Machine Intelligence 3.12 (2021)*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-021-00409-9)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2e17cc055f7313d3c4ebd48c07a6026a408bed9c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
