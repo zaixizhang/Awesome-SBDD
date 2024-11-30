@@ -1,14 +1,14 @@
-# Awesome-SBDD
-Our survey paper: [Geometric Deep Learning for Structure-Based Drug Design: A Survey](
+# Awesome-SBDD: Papers on Structure-based Drug Design (SBDD)
+Link to the survey paper: [Geometric Deep Learning for Structure-Based Drug Design: A Survey](
 https://arxiv.org/abs/2306.11768)
 
-Papers about Structure-based Drug Design (SBDD)
+<div align=center><img src="https://github.com/zaixizhang/Awesome-SBDD/blob/main/tasks.png" width="700"/></div>
+
+This repository contains a list of papers on the Structure-based Drug Design; we categorize them based on their detailed tasks and methods. Specifically, **we focus our scope on tasks related to the protein-ligand binding interface**, including *binding site prediction, binding pose generation, de novo ligand generation, linker design, protein pocket generation, and binding affinity prediction*.
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Created](https://img.shields.io/badge/Created-2023--06-green.svg) ![Stars](https://img.shields.io/github/stars/zaixizhang/Awesome-SBDD?color=yellow)
 
 <!--![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/zaixizhang/Awesome-SBDD?color=yellow)  ![Forks](https://img.shields.io/github/forks/zaixizhang/Awesome-SBDD?color=blue&label=Fork) -->
-
-This repository contains a list of papers on the Structure-based Drug Design; we categorize them based on their detailed tasks and methods.
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
 
@@ -43,6 +43,10 @@ We will try to make this list updated. If you found any error or any missed pape
   - [2023 -- Linker design](#2023----Linker-design)
   - [2022 -- Linker design](#2022----Linker-design)
   - [2020 -- Linker design](#2020----Linker-design)
+- [Protein Pocket Generation](#protein-pocket-generation)
+  - [2023 -- Protein pocket generation](#2023----Protein-pocket-generation)
+  - [2022 -- Protein pocket generation](#2022----Protein-pocket-generation)
+  - [2020 -- Protein pocket generation](#2020----Protein-pocket-generation)
 
 
 ## Binding site prediction
@@ -898,4 +902,8 @@ Imrie, Fergus, et al
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa1aed6c0f20b659bb0c5f559c6d33584d51c5aab%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/oxpig/DeLinker)
 ![Stars](https://img.shields.io/github/stars/oxpig/DeLinker?color=yellow&style=social)
+
+## Protein Pocket Generation
+
+### 2023 -- Protein-pocket-generation
 
