@@ -1,5 +1,5 @@
 # Awesome-SBDD
-Our survey paper: [A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design](
+Our survey paper: [Geometric Deep Learning for Structure-Based Drug Design: A Survey](
 https://arxiv.org/abs/2306.11768)
 
 Papers about Structure-based Drug Design (SBDD)
