@@ -907,3 +907,22 @@ Imrie, Fergus, et al
 
 ### 2023 -- Protein-pocket-generation
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zaixizhang/Awesome-SBDD&type=Date)](https://star-history.com/#zaixizhang/Awesome-SBDD&Date)
+
+## Citation
+
+If you find this repo to be useful, please cite our paper. Thank you!
+
+```
+@article{zhang2023systematic,
+  title={A systematic survey in geometric deep learning for structure-based drug design},
+  author={Zhang, Zaixi and Yan, Jiaxian and Liu, Qi and Chen, Enhong and Zitnik, Marinka},
+  journal={arXiv preprint arXiv:2306.11768},
+  year={2023}
+}
+```
+
+## Acknowledgement
+
