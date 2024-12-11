@@ -44,9 +44,8 @@ We will try to make this list updated. If you found any error or any missed pape
   - [2022 -- Linker design](#2022----Linker-design)
   - [2020 -- Linker design](#2020----Linker-design)
 - [Protein Pocket Generation](#protein-pocket-generation)
+  - [2024 -- Protein pocket generation](#2024----Protein-pocket-generation)
   - [2023 -- Protein pocket generation](#2023----Protein-pocket-generation)
-  - [2022 -- Protein pocket generation](#2022----Protein-pocket-generation)
-  - [2020 -- Protein pocket generation](#2020----Protein-pocket-generation)
 
 
 ## Binding site prediction
