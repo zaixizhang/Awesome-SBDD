@@ -905,7 +905,42 @@ Imrie, Fergus, et al
 
 ## Protein Pocket Generation
 
+### 2024 -- Protein-pocket-generation
+
+**Generalized Protein Pocket Generation with Prior-Informed Flow Matching**  
+Zhang, Zaixi, Zitnik, Marinka, and Liu, Qi  
+*Advances in Neural Information Processing Systems, 2024*  
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2409.19520)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2409.19520%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+**Efficient Generation of Protein Pockets with PocketGen**  
+Zhang, Zaixi, Shen, Wan Xiang, Liu, Qi, and Zitnik, Marinka  
+*Nature Machine Intelligence, 2024*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FPLACEHOLDER_DOI%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+**De Novo Design of Protein Structure and Function with RFdiffusion**  
+Watson, Joseph L., Juergens, David, Bennett, Nathaniel R., Trippe, Brian L., Yim, Jason, Eisenach, Helen E., Ahern, Woody, Borst, Andrew J., Ragotte, Robert J., Milles, Lukas F., et al.  
+*Nature, 2023, Volume 620, Issue 7976, Pages 1089–1100*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FPLACEHOLDER_DOI%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
 ### 2023 -- Protein-pocket-generation
+
+**De Novo Design of Protein Structure and Function with RFdiffusion**  
+Watson, Joseph L., Juergens, David, Bennett, Nathaniel R., Trippe, Brian L., Yim, Jason, Eisenach, Helen E., Ahern, Woody, Borst, Andrew J., Ragotte, Robert J., Milles, Lukas F., et al.  
+*Nature, 2023*  
+[![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FPLACEHOLDER_DOI%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+**Full-Atom Protein Pocket Design via Iterative Refinement**  
+Zhang, Zaixi, Lu, Zepu, Zhongkai, Hao, Zitnik, Marinka, and Liu, Qi  
+*Advances in Neural Information Processing Systems, 2023, Volume 36, Pages 16816–16836*  
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=PLACEHOLDER_ID)  
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FPLACEHOLDER_DOI%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
 
 ## Star History
 
