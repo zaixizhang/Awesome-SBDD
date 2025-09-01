@@ -54,6 +54,13 @@ We will try to make this list updated. If you found any error or any missed pape
   - [2023 -- Protein pocket generation](#2023----Protein-pocket-generation)
 
 
+<!-- 
+[![](https://img.shields.io/badge/placeholder-5291C8?style=flat&logo=Read.cv&labelColor=555555)](placeholder)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fplaceholder3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](placeholder)
+![Stars](https://img.shields.io/github/stars/placeholder?color=yellow&style=social) 
+-->
+
 ## Binding site prediction
 ### 2025 -- Binding-site-prediction
 
@@ -255,7 +262,7 @@ Peng, Yangzhe, et al.
 Guan, Jiaqi, et al.  
 *The Thirteenth International Conference on Learning Representations*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=zDC3iCBxJb)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fplaceholder%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c77c73b78c1fab21ee1f3c48037e0beba81f062%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 **Fast and Accurate Blind Flexible Docking.**  
 Zhang, Zizhuo, et al.  
@@ -563,6 +570,14 @@ Méndez-Lucio, Oscar, et al
 ## Binding affinity prediction
 
 ### 2025 -- Binding-affinity-prediction
+
+**CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction**  
+Lim, Hyukjun, Sun Kim, and Sangseon Lee.  
+*The Thirteenth International Conference on Learning Representations* 
+[![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=A1HhtITVEi)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F654789bf051300463800ac33185b4d71c2b878e93Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+[![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/hyukjunlim/CheapNet)
+![Stars](https://img.shields.io/github/stars/hyukjunlim/CheapNet?color=yellow&style=social) 
 
 **Boltz-2: Towards accurate and efficient binding affinity prediction**  
 Passaro, Saro, et al.  
