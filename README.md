@@ -573,7 +573,7 @@ Méndez-Lucio, Oscar, et al
 
 **CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction**  
 Lim, Hyukjun, Sun Kim, and Sangseon Lee.  
-*The Thirteenth International Conference on Learning Representations* 
+*The Thirteenth International Conference on Learning Representations*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=A1HhtITVEi)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F654789bf051300463800ac33185b4d71c2b878e93Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/hyukjunlim/CheapNet)
