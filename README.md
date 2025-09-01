@@ -57,31 +57,31 @@ We will try to make this list updated. If you found any error or any missed pape
 ## Binding site prediction
 ### 2025 -- Binding-site-prediction
 
-**Deep-ProBind: binding protein prediction with transformer-based deep learning model**
+**Deep-ProBind: binding protein prediction with transformer-based deep learning model**  
 Khan, Salman et al.  
-*BMC Bioinformatics, 2025*
+*BMC Bioinformatics, 2025*  
 [![](https://img.shields.io/badge/bmc-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/article/10.1186/s12859-025-06101-8)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcbc4f98c847ca803c748057ab8c5e945154c2e69%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/salman-khan-mrd/Deep-ProBind)
 ![Stars](https://img.shields.io/github/stars/salman-khan-mrd/Deep-ProBind?color=yellow&style=social)
 
-**UniSite: The First Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection**
-Fan, Jigang et al.
-*arXiv preprint arXiv:2506.03237 (2025)*
+**UniSite: The First Cross-Structure Dataset and Learning Framework for End-to-End Ligand Binding Site Detection**  
+Fan, Jigang et al.  
+*arXiv preprint arXiv:2506.03237 (2025)*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2506.03237)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa040c9f2db9cfd00773249af8b72f22437a13931%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/quanlin-wu/unisite)
 ![Stars](https://img.shields.io/github/stars/quanlin-wu/unisite?color=yellow&style=social)
 
-**Advancing Protein-Ligand Binding Site Prediction with 3D Instance Segmentation Techniques**
-Gavali, Esha Rajesh, et al.
-*2025 IEEE Conference on Artificial Intelligence (CAI). IEEE, 2025*
+**Advancing Protein-Ligand Binding Site Prediction with 3D Instance Segmentation Techniques**  
+Gavali, Esha Rajesh, et al.  
+*2025 IEEE Conference on Artificial Intelligence (CAI). IEEE, 2025*  
 [![](https://img.shields.io/badge/ieee-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/11050611)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0d80484d94a94c38b06676afbe815aca097e8567%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-**GlycanInsight: an open platform for carbohydrate-binding pocket prediction and characterization**
-Chu, Qinyu, et al.
-*Chemical Science 16.23 (2025)*
+**GlycanInsight: an open platform for carbohydrate-binding pocket prediction and characterization**  
+Chu, Qinyu, et al.  
+*Chemical Science 16.23 (2025)*  
 [![](https://img.shields.io/badge/rcs-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc02262b)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb99bd2acc8a1c55aaebc94654afdc7c2f2eacfdc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
@@ -89,9 +89,9 @@ Chu, Qinyu, et al.
 ### 2024 -- Binding-site-prediction
 
 
-**Highly accurate carbohydrate-binding site prediction with DeepGlycanSite** 
-He, Xinheng, et al. 
-*Nature Communications 15.1 (2024)*
+**Highly accurate carbohydrate-binding site prediction with DeepGlycanSite**  
+He, Xinheng, et al.  
+*Nature Communications 15.1 (2024)*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-49516-2)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcdc66c65997bf011274f7d2776f40c4d7863b2a1%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/xichengeva/DeepGlycanSite)
@@ -211,55 +211,55 @@ Jiménez, José, et al
 
 ### 2025 -- Binding-pose-generation
 
-**PoseX: AI Defeats Physics Approaches on Protein-Ligand Cross Docking**
-Jiang, Yize, et al.
-*arXiv preprint arXiv:2505.01700 (2025)*
+**PoseX: AI Defeats Physics Approaches on Protein-Ligand Cross Docking**  
+Jiang, Yize, et al.  
+*arXiv preprint arXiv:2505.01700 (2025)*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2505.01700)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff3f648038fb7fed94cf765870c5883190da49441%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/CataAI/PoseX)
 ![Stars](https://img.shields.io/github/stars/CataAI/PoseX?color=yellow&style=social)
 
-**Protenix-advancing structure prediction through a comprehensive AlphaFold3 reproduction**
-ByteDance AML AI4Science Team, et al.
-*BioRxiv (2025)*
+**Protenix-advancing structure prediction through a comprehensive AlphaFold3 reproduction**  
+ByteDance AML AI4Science Team, et al.  
+*BioRxiv (2025)*  
 [![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2025/01/11/2025.01.08.631967.full.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8a39972fbc536705f5404f10a4e2fe73a71e5b61%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/bytedance/Protenix)
 ![Stars](https://img.shields.io/github/stars/bytedance/Protenix?color=yellow&style=social)
 
-**Boltz-1 democratizing biomolecular interaction modeling**
-Wohlwend, Jeremy, et al. 
-*BioRxiv (2025)*
+**Boltz-1 democratizing biomolecular interaction modeling**  
+Wohlwend, Jeremy, et al.  
+*BioRxiv (2025)*  
 [![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.11.19.624167v4.full.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9f91e0ab6fadc7e4140fe0ae25ef38330c0c6ca9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jwohlwend/boltz)
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow&style=social)
 
-**SurfDock is a surface-informed diffusion generative model for reliable and accurate protein–ligand complex prediction**
-Cao, Duanhua, et al. 
-*Nature Methods 22.2 (2025)*
+**SurfDock is a surface-informed diffusion generative model for reliable and accurate protein–ligand complex prediction**  
+Cao, Duanhua, et al.  
+*Nature Methods 22.2 (2025)*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41592-024-02516-y)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe1d1858babcdd1273906ecb7c783ccbf29fa4515%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/CAODH/SurfDock)
 ![Stars](https://img.shields.io/github/stars/CAODH/SurfDock?color=yellow&style=social)
 
-**CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions**
-Peng, Yangzhe, et al.
-Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2. 2025.
+**CovDocker: Benchmarking Covalent Drug Design with Tasks, Datasets, and Solutions**  
+Peng, Yangzhe, et al.  
+*Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2. 2025*  
 [![](https://img.shields.io/badge/kdd-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3711896.3736896)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9e797dbf56c6a9be51013a8a05d8f614dee385c0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/PoloWitty/CovDocker)
 ![Stars](https://img.shields.io/github/stars/PoloWitty/CovDocker?color=yellow&style=social)
 
-**Group Ligands Docking to Protein Pockets**
-Guan, Jiaqi, et al.
-*The Thirteenth International Conference on Learning Representations*
+**Group Ligands Docking to Protein Pockets**  
+Guan, Jiaqi, et al.  
+*The Thirteenth International Conference on Learning Representations*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=zDC3iCBxJb)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fplaceholder%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-**Fast and Accurate Blind Flexible Docking.**
-Zhang, Zizhuo, et al.
-*The Thirteenth International Conference on Learning Representations*
+**Fast and Accurate Blind Flexible Docking.**  
+Zhang, Zizhuo, et al.  
+*The Thirteenth International Conference on Learning Representations*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=iezDdA9oeB)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F0c5a047526c7845061ec2120a68d84f3a610a954%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/tmlr-group/FABFlex)
@@ -269,15 +269,15 @@ Zhang, Zizhuo, et al.
 
 ### 2024 -- Binding-pose-generation
 
-**Deltadock: A unified framework for accurate, efficient, and physically reliable molecular docking**
-Yan, Jiaxian, et al. 
-*Advances in Neural Information Processing Systems 37 (2024)*
+**Deltadock: A unified framework for accurate, efficient, and physically reliable molecular docking**  
+Yan, Jiaxian, et al.  
+*Advances in Neural Information Processing Systems 37 (2024)*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2024/file/cd97da5366de69250442901abcdd4c0a-Paper-Conference.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F77720817a3f3aec656a4aa9507b4b2ce7c7b104f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 **DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model**  
-Lu, Wei et al  
+Lu, Wei et al.  
 *Nature Communications 15 (2024)*  
 [![](https://img.shields.io/badge/nature-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-024-45461-2)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F51894ffcf778630e7b021bc473d13d028a3b9158%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
@@ -286,8 +286,8 @@ Lu, Wei et al
 
 
 **PackDock: a Diffusion Based Side Chain Packing Model for Flexible Protein-Ligand Docking**  
-Zhang, Runze et al  
-*bioRxiv (2024): n. pag*  
+Zhang, Runze et al.  
+*bioRxiv (2024)*  
 [![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.01.31.578200v1.full.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F770f53f09f541b96d0e3693ae4066b897ef9d9f5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Zhang-Runze/PackDock)
@@ -564,39 +564,39 @@ Méndez-Lucio, Oscar, et al
 
 ### 2025 -- Binding-affinity-prediction
 
-**Boltz-2: Towards accurate and efficient binding affinity prediction**
-Passaro, Saro, et al. 
-*BioRxiv (2025)*
+**Boltz-2: Towards accurate and efficient binding affinity prediction**  
+Passaro, Saro, et al.  
+*BioRxiv (2025)*  
 [![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2025.06.14.659707v1.full.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F37fbf208a5530a2158ac3acec29597a69932413a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/jwohlwend/boltz)
 ![Stars](https://img.shields.io/github/stars/jwohlwend/boltz?color=yellow&style=social)
 
-**ATOMICA: Learning Universal Representations of Intermolecular Interactions**
-Fang, Ada, et al. 
-*bioRxiv (2025)*
+**ATOMICA: Learning Universal Representations of Intermolecular Interactions**  
+Fang, Ada, et al.  
+*bioRxiv (2025)*  
 [![](https://img.shields.io/badge/biorxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/biorxiv/early/2025/04/08/2025.04.02.646906.full.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6c9d2e23040c61c4f03c214ab9d6e9416c9e4129%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/mims-harvard/ATOMICA)
 ![Stars](https://img.shields.io/github/stars/mims-harvard/ATOMICA?color=yellow&style=social)
 
-**Learning Protein-Ligand Binding in Hyperbolic Space**
-Wang, Jianhui, et al.
-*arXiv preprint arXiv:2508.15480 (2025)*
+**Learning Protein-Ligand Binding in Hyperbolic Space**  
+Wang, Jianhui, et al.  
+*arXiv preprint arXiv:2508.15480 (2025)*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2508.15480)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1cf175c3970972bffce2ead96c0b836cbd0b0b8f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-**EM-PLA: Environment-aware Heterogeneous Graph-based Multimodal Protein-Ligand Binding Affinity Prediction**
-Xie, Zhiqi, et al. 
-*Bioinformatics (2025)*
+**EM-PLA: Environment-aware Heterogeneous Graph-based Multimodal Protein-Ligand Binding Affinity Prediction**  
+Xie, Zhiqi, et al.  
+*Bioinformatics (2025)*  
 [![](https://img.shields.io/badge/oxford-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/41/7/btaf298/8129041)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4e4c209de3c92ba1951c7a8bd5a484a925005048%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/littlemou22/EM-PLA)
 ![Stars](https://img.shields.io/github/stars/littlemou22/EM-PLA?color=yellow&style=social)
 
-**Tokenizing Electron Cloud in Protein-Ligand Interaction Learning**
-Lin, Haitao, et al. 
-*arXiv preprint arXiv:2505.19014 (2025)*
+**Tokenizing Electron Cloud in Protein-Ligand Interaction Learning**  
+Lin, Haitao, et al.   
+*arXiv preprint arXiv:2505.19014 (2025)*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2505.19014)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F38115cff885cfc9bd49f7c356cddb0c2f616364c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
@@ -768,39 +768,39 @@ Stepniewska-Dziubinska, Marta M., Piotr Zielenkiewicz, and Pawel Siedlecki
 
 ### 2025 -- De-novo-ligand-generation
 
-**Assay2Mol: large language model-based drug design using BioAssay context**
-Deng, Yifan, Spencer S. Ericksen, and Anthony Gitter. 
-*arXiv preprint arXiv:2507.12574 (2025).*
+**Assay2Mol: large language model-based drug design using BioAssay context**  
+Deng, Yifan, Spencer S. Ericksen, and Anthony Gitter.   
+*arXiv preprint arXiv:2507.12574 (2025).*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2507.12574?)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcf5143e528d62e14b505510fe32ade0e3871d0ce%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/gitter-lab/Assay2Mol)
 ![Stars](https://img.shields.io/github/stars/gitter-lab/Assay2Mol?color=yellow&style=social)
 
-**Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule**
-Qiu, Keyue, et al.
-*Forty-second International Conference on Machine Learning*
+**Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule**  
+Qiu, Keyue, et al.  
+*Forty-second International Conference on Machine Learning*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=b6VYI1Bvo2)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1e79c7262f52eb7ab0302c021022ca0d66054846%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/GenSI-THUAIR/MolCRAFT)
 ![Stars](https://img.shields.io/github/stars/GenSI-THUAIR/MolCRAFT?color=yellow&style=social)
 
-**Empower Structure-Based Molecule Optimization with Gradient Guided Bayesian Flow Networks**
-Qiu, Keyue, et al. 
-*Forty-second International Conference on Machine Learning*
+**Empower Structure-Based Molecule Optimization with Gradient Guided Bayesian Flow Networks**  
+Qiu, Keyue, et al.   
+*Forty-second International Conference on Machine Learning*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2411.13280)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4eba6240146a8ab24f67ecdf963132a72f125864%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/GenSI-THUAIR/MolCRAFT)
 ![Stars](https://img.shields.io/github/stars/GenSI-THUAIR/MolCRAFT?color=yellow&style=social)
 
-**MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning**
-Eckmann, Peter, et al. 
-*Forty-second International Conference on Machine Learning*
+**MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning**  
+Eckmann, Peter, et al.   
+*Forty-second International Conference on Machine Learning*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://icml.cc/virtual/2025/poster/46515)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa9c81ee83f3b2a41641e186da539a2252e90511e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
-**CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation**
-Southiratn, Thibaud, et al. 
-*Forty-second International Conference on Machine Learning*
+**CombiMOTS: Combinatorial Multi-Objective Tree Search for Dual-Target Molecule Generation**  
+Southiratn, Thibaud, et al.   
+*Forty-second International Conference on Machine Learning*  
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/Tibogoss/CombiMOTS)
 ![Stars](https://img.shields.io/github/stars/Tibogoss/CombiMOTS?color=yellow&style=social)
 
@@ -1052,22 +1052,22 @@ Masuda, Tomohide, Matthew Ragoza, and David Ryan Koes
 
 ### 2025 -- Linker-design
 
-**Domain-Adapted Diffusion Model for PROTAC Linker Design Through the Lens of Density Ratio in Chemical Space**
-Song, Zixing, Ziqiao Meng, and José Miguel Hernández-Lobato. 
-*Forty-second International Conference on Machine Learning*
+**Domain-Adapted Diffusion Model for PROTAC Linker Design Through the Lens of Density Ratio in Chemical Space**  
+Song, Zixing, Ziqiao Meng, and José Miguel Hernández-Lobato.   
+*Forty-second International Conference on Machine Learning*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=jkyUbkNJyH)
 
-**Hybridlinker: Topology-guided posterior sampling for enhanced diversity and validity in 3d molecular linker generation**
-Hwang, Minyeong, et al. 
-*arXiv preprint arXiv:2502.17349 (2025)*
+**Hybridlinker: Topology-guided posterior sampling for enhanced diversity and validity in 3d molecular linker generation**  
+Hwang, Minyeong, et al.   
+*arXiv preprint arXiv:2502.17349 (2025)*  
 [![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2502.17349?)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8b967982e5ac942bc0ec4868b227cd86e01f4e04%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 ### 2024 -- Linker-design
 
-**Reprogramming pretrained target-specific diffusion models for dual-target drug design**
-Zhou, Xiangxin, et al. 
-*Advances in Neural Information Processing Systems 37 (2024): 87255-87281*
+**Reprogramming pretrained target-specific diffusion models for dual-target drug design**  
+Zhou, Xiangxin, et al.   
+*Advances in Neural Information Processing Systems 37 (2024): 87255-87281*  
 [![](https://img.shields.io/badge/openreview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2024/file/9ebf3213e396975cce47f2762e87e166-Paper-Conference.pdf)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa9e528db650a7314fea855c068df874616edf8d9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 [![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555)](https://github.com/zhouxiangxin1998/DualDiff)
